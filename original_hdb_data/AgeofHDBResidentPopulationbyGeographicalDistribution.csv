@@ -1,0 +1,365 @@
+shs_year,town_estate,age_group,percentage
+2013,Sengkang,Below 15,24
+2013,Sengkang,15  -  24,11.6
+2013,Sengkang,25  -  34,13.4
+2013,Sengkang,35  -  44,19.6
+2013,Sengkang,45  -  54,16.4
+2013,Sengkang,55  -  64,9.9
+2013,Sengkang,65 & Above,5.1
+2013,Punggol,Below 15,25
+2013,Punggol,15  -  24,8.6
+2013,Punggol,25  -  34,19.3
+2013,Punggol,35  -  44,22.1
+2013,Punggol,45  -  54,12.2
+2013,Punggol,55  -  64,8
+2013,Punggol,65 & Above,4.8
+2013,Sembawang,Below 15,21.7
+2013,Sembawang,15  -  24,14
+2013,Sembawang,25  -  34,15.7
+2013,Sembawang,35  -  44,19.7
+2013,Sembawang,45  -  54,15.8
+2013,Sembawang,55  -  64,9
+2013,Sembawang,65 & Above,4.1
+2013,Woodlands,Below 15,20.1
+2013,Woodlands,15  -  24,18.3
+2013,Woodlands,25  -  34,10.2
+2013,Woodlands,35  -  44,16.6
+2013,Woodlands,45  -  54,17
+2013,Woodlands,55  -  64,9.8
+2013,Woodlands,65 & Above,8
+2013,Jurong West,Below 15,20.2
+2013,Jurong West,15  -  24,14.3
+2013,Jurong West,25  -  34,15.1
+2013,Jurong West,35  -  44,17.4
+2013,Jurong West,45  -  54,16
+2013,Jurong West,55  -  64,11.4
+2013,Jurong West,65 & Above,5.6
+2013,Tampines,Below 15,16.4
+2013,Tampines,15  -  24,15.3
+2013,Tampines,25  -  34,14.4
+2013,Tampines,35  -  44,14.9
+2013,Tampines,45  -  54,16
+2013,Tampines,55  -  64,12.8
+2013,Tampines,65 & Above,10.2
+2013,Yishun,Below 15,17.3
+2013,Yishun,15  -  24,14.6
+2013,Yishun,25  -  34,15.1
+2013,Yishun,35  -  44,13.8
+2013,Yishun,45  -  54,17.3
+2013,Yishun,55  -  64,13.9
+2013,Yishun,65 & Above,8
+2013,Choa Chu Kang,Below 15,18.9
+2013,Choa Chu Kang,15  -  24,19.7
+2013,Choa Chu Kang,25  -  34,11.7
+2013,Choa Chu Kang,35  -  44,16.2
+2013,Choa Chu Kang,45  -  54,19.2
+2013,Choa Chu Kang,55  -  64,9.1
+2013,Choa Chu Kang,65 & Above,5.2
+2013,Hougang,Below 15,13.8
+2013,Hougang,15  -  24,15.8
+2013,Hougang,25  -  34,14.2
+2013,Hougang,35  -  44,12.9
+2013,Hougang,45  -  54,17.4
+2013,Hougang,55  -  64,15.6
+2013,Hougang,65 & Above,10.3
+2013,Bukit Panjang,Below 15,16.6
+2013,Bukit Panjang,15  -  24,16.4
+2013,Bukit Panjang,25  -  34,13.2
+2013,Bukit Panjang,35  -  44,14.9
+2013,Bukit Panjang,45  -  54,16.2
+2013,Bukit Panjang,55  -  64,13.1
+2013,Bukit Panjang,65 & Above,9.6
+2013,Pasir Ris,Below 15,16.7
+2013,Pasir Ris,15  -  24,21.3
+2013,Pasir Ris,25  -  34,8.9
+2013,Pasir Ris,35  -  44,13.5
+2013,Pasir Ris,45  -  54,21
+2013,Pasir Ris,55  -  64,11.7
+2013,Pasir Ris,65 & Above,6.9
+2013,Bukit Batok,Below 15,14.5
+2013,Bukit Batok,15  -  24,16.9
+2013,Bukit Batok,25  -  34,13.7
+2013,Bukit Batok,35  -  44,13.3
+2013,Bukit Batok,45  -  54,18.1
+2013,Bukit Batok,55  -  64,14.1
+2013,Bukit Batok,65 & Above,9.4
+2013,Jurong East,Below 15,15.8
+2013,Jurong East,15  -  24,12.3
+2013,Jurong East,25  -  34,15.3
+2013,Jurong East,35  -  44,14.1
+2013,Jurong East,45  -  54,15.4
+2013,Jurong East,55  -  64,15.1
+2013,Jurong East,65 & Above,12
+2013,Serangoon,Below 15,13.9
+2013,Serangoon,15  -  24,15.3
+2013,Serangoon,25  -  34,13.3
+2013,Serangoon,35  -  44,14.5
+2013,Serangoon,45  -  54,16.6
+2013,Serangoon,55  -  64,16.3
+2013,Serangoon,65 & Above,10.1
+2013,Bishan,Below 15,11.5
+2013,Bishan,15  -  24,14.2
+2013,Bishan,25  -  34,12.2
+2013,Bishan,35  -  44,13.2
+2013,Bishan,45  -  54,15
+2013,Bishan,55  -  64,17.6
+2013,Bishan,65 & Above,14.3
+2013,Bukit Timah,Below 15,15.7
+2013,Bukit Timah,15  -  24,12.2
+2013,Bukit Timah,25  -  34,11.1
+2013,Bukit Timah,35  -  44,14.1
+2013,Bukit Timah,45  -  54,14.5
+2013,Bukit Timah,55  -  64,15.8
+2013,Bukit Timah,65 & Above,16.6
+2013,Bedok,Below 15,14
+2013,Bedok,15  -  24,12
+2013,Bedok,25  -  34,17.6
+2013,Bedok,35  -  44,14.3
+2013,Bedok,45  -  54,13.8
+2013,Bedok,55  -  64,16.8
+2013,Bedok,65 & Above,11.5
+2013,Bukit Merah,Below 15,13
+2013,Bukit Merah,15  -  24,12.6
+2013,Bukit Merah,25  -  34,13.1
+2013,Bukit Merah,35  -  44,11.6
+2013,Bukit Merah,45  -  54,14.9
+2013,Bukit Merah,55  -  64,17.4
+2013,Bukit Merah,65 & Above,17.4
+2013,Ang Mo Kio,Below 15,13.4
+2013,Ang Mo Kio,15  -  24,13.2
+2013,Ang Mo Kio,25  -  34,11.7
+2013,Ang Mo Kio,35  -  44,12.9
+2013,Ang Mo Kio,45  -  54,16
+2013,Ang Mo Kio,55  -  64,16
+2013,Ang Mo Kio,65 & Above,16.8
+2013,Toa Payoh,Below 15,14.1
+2013,Toa Payoh,15  -  24,10.8
+2013,Toa Payoh,25  -  34,13.8
+2013,Toa Payoh,35  -  44,14.5
+2013,Toa Payoh,45  -  54,13.8
+2013,Toa Payoh,55  -  64,14.8
+2013,Toa Payoh,65 & Above,18.2
+2013,Kallang/Whampoa,Below 15,12.1
+2013,Kallang/Whampoa,15  -  24,10.5
+2013,Kallang/Whampoa,25  -  34,12
+2013,Kallang/Whampoa,35  -  44,13.4
+2013,Kallang/Whampoa,45  -  54,14.1
+2013,Kallang/Whampoa,55  -  64,14.4
+2013,Kallang/Whampoa,65 & Above,23.5
+2013,Queenstown,Below 15,15.2
+2013,Queenstown,15  -  24,11
+2013,Queenstown,25  -  34,11.7
+2013,Queenstown,35  -  44,13.7
+2013,Queenstown,45  -  54,15.6
+2013,Queenstown,55  -  64,13.8
+2013,Queenstown,65 & Above,19
+2013,Geylang,Below 15,14.5
+2013,Geylang,15  -  24,10.6
+2013,Geylang,25  -  34,11.9
+2013,Geylang,35  -  44,14.4
+2013,Geylang,45  -  54,15.4
+2013,Geylang,55  -  64,16.1
+2013,Geylang,65 & Above,17.1
+2013,Clementi,Below 15,13.9
+2013,Clementi,15  -  24,7.2
+2013,Clementi,25  -  34,12.9
+2013,Clementi,35  -  44,15.7
+2013,Clementi,45  -  54,14.2
+2013,Clementi,55  -  64,16.5
+2013,Clementi,65 & Above,19.6
+2013,Central Area,Below 15,12.5
+2013,Central Area,15  -  24,9.6
+2013,Central Area,25  -  34,10.9
+2013,Central Area,35  -  44,14.4
+2013,Central Area,45  -  54,15.3
+2013,Central Area,55  -  64,16.9
+2013,Central Area,65 & Above,20.4
+2013,Marine Parade,Below 15,14.5
+2013,Marine Parade,15  -  24,11.6
+2013,Marine Parade,25  -  34,9.9
+2013,Marine Parade,35  -  44,13.1
+2013,Marine Parade,45  -  54,17.1
+2013,Marine Parade,55  -  64,13.5
+2013,Marine Parade,65 & Above,20.3
+2018,Sengkang,Below 15,21.2
+2018,Sengkang,15  -  24,11.9
+2018,Sengkang,25  -  34,14.6
+2018,Sengkang,35  -  44,15.9
+2018,Sengkang,45  -  54,16.1
+2018,Sengkang,55  -  64,10.2
+2018,Sengkang,65 & Above,10.1
+2018,Punggol,Below 15,25.3
+2018,Punggol,15  -  24,7
+2018,Punggol,25  -  34,20.8
+2018,Punggol,35  -  44,22.6
+2018,Punggol,45  -  54,9.7
+2018,Punggol,55  -  64,8.7
+2018,Punggol,65 & Above,5.9
+2018,Sembawang,Below 15,18.2
+2018,Sembawang,15  -  24,14.6
+2018,Sembawang,25  -  34,14.4
+2018,Sembawang,35  -  44,15.6
+2018,Sembawang,45  -  54,14.7
+2018,Sembawang,55  -  64,15.4
+2018,Sembawang,65 & Above,7.1
+2018,Woodlands,Below 15,16.2
+2018,Woodlands,15  -  24,18.7
+2018,Woodlands,25  -  34,10.5
+2018,Woodlands,35  -  44,14.1
+2018,Woodlands,45  -  54,17.3
+2018,Woodlands,55  -  64,12.7
+2018,Woodlands,65 & Above,10.5
+2018,Jurong West,Below 15,16.8
+2018,Jurong West,15  -  24,11.8
+2018,Jurong West,25  -  34,9.7
+2018,Jurong West,35  -  44,15
+2018,Jurong West,45  -  54,16.2
+2018,Jurong West,55  -  64,15.8
+2018,Jurong West,65 & Above,14.7
+2018,Tampines,Below 15,15.9
+2018,Tampines,15  -  24,12.7
+2018,Tampines,25  -  34,14.3
+2018,Tampines,35  -  44,12.7
+2018,Tampines,45  -  54,11.9
+2018,Tampines,55  -  64,18.4
+2018,Tampines,65 & Above,14.1
+2018,Yishun,Below 15,15.5
+2018,Yishun,15  -  24,13.9
+2018,Yishun,25  -  34,12.7
+2018,Yishun,35  -  44,13.3
+2018,Yishun,45  -  54,15
+2018,Yishun,55  -  64,16.2
+2018,Yishun,65 & Above,13.4
+2018,Choa Chu Kang,Below 15,13.1
+2018,Choa Chu Kang,15  -  24,19
+2018,Choa Chu Kang,25  -  34,12.1
+2018,Choa Chu Kang,35  -  44,12.1
+2018,Choa Chu Kang,45  -  54,16.6
+2018,Choa Chu Kang,55  -  64,15.9
+2018,Choa Chu Kang,65 & Above,11.2
+2018,Hougang,Below 15,12.1
+2018,Hougang,15  -  24,13.5
+2018,Hougang,25  -  34,11
+2018,Hougang,35  -  44,13.4
+2018,Hougang,45  -  54,16.9
+2018,Hougang,55  -  64,16.6
+2018,Hougang,65 & Above,16.5
+2018,Bukit Panjang,Below 15,13.4
+2018,Bukit Panjang,15  -  24,13.5
+2018,Bukit Panjang,25  -  34,14.4
+2018,Bukit Panjang,35  -  44,10.3
+2018,Bukit Panjang,45  -  54,16.4
+2018,Bukit Panjang,55  -  64,17.2
+2018,Bukit Panjang,65 & Above,14.8
+2018,Pasir Ris,Below 15,12.9
+2018,Pasir Ris,15  -  24,19.8
+2018,Pasir Ris,25  -  34,12.7
+2018,Pasir Ris,35  -  44,11.4
+2018,Pasir Ris,45  -  54,16.7
+2018,Pasir Ris,55  -  64,17.1
+2018,Pasir Ris,65 & Above,9.4
+2018,Bukit Batok,Below 15,12.1
+2018,Bukit Batok,15  -  24,13.5
+2018,Bukit Batok,25  -  34,11.3
+2018,Bukit Batok,35  -  44,11.5
+2018,Bukit Batok,45  -  54,16.3
+2018,Bukit Batok,55  -  64,18.1
+2018,Bukit Batok,65 & Above,17.2
+2018,Jurong East,Below 15,9.2
+2018,Jurong East,15  -  24,12.4
+2018,Jurong East,25  -  34,13.3
+2018,Jurong East,35  -  44,12.5
+2018,Jurong East,45  -  54,14.1
+2018,Jurong East,55  -  64,16.6
+2018,Jurong East,65 & Above,21.9
+2018,Serangoon,Below 15,9.3
+2018,Serangoon,15  -  24,13.3
+2018,Serangoon,25  -  34,9.9
+2018,Serangoon,35  -  44,13
+2018,Serangoon,45  -  54,15.3
+2018,Serangoon,55  -  64,18.2
+2018,Serangoon,65 & Above,21
+2018,Bishan,Below 15,9.8
+2018,Bishan,15  -  24,13.3
+2018,Bishan,25  -  34,10
+2018,Bishan,35  -  44,12.9
+2018,Bishan,45  -  54,14.2
+2018,Bishan,55  -  64,19.9
+2018,Bishan,65 & Above,19.9
+2018,Bukit Timah,Below 15,11.4
+2018,Bukit Timah,15  -  24,11.9
+2018,Bukit Timah,25  -  34,11.1
+2018,Bukit Timah,35  -  44,10.6
+2018,Bukit Timah,45  -  54,12
+2018,Bukit Timah,55  -  64,20
+2018,Bukit Timah,65 & Above,23
+2018,Bedok,Below 15,9.6
+2018,Bedok,15  -  24,13.6
+2018,Bedok,25  -  34,13.6
+2018,Bedok,35  -  44,9
+2018,Bedok,45  -  54,13.9
+2018,Bedok,55  -  64,18.5
+2018,Bedok,65 & Above,21.8
+2018,Bukit Merah,Below 15,12.2
+2018,Bukit Merah,15  -  24,9
+2018,Bukit Merah,25  -  34,9.6
+2018,Bukit Merah,35  -  44,12.8
+2018,Bukit Merah,45  -  54,14.1
+2018,Bukit Merah,55  -  64,16.6
+2018,Bukit Merah,65 & Above,25.7
+2018,Ang Mo Kio,Below 15,11.4
+2018,Ang Mo Kio,15  -  24,9.7
+2018,Ang Mo Kio,25  -  34,10.3
+2018,Ang Mo Kio,35  -  44,12.5
+2018,Ang Mo Kio,45  -  54,13.6
+2018,Ang Mo Kio,55  -  64,17.9
+2018,Ang Mo Kio,65 & Above,24.6
+2018,Toa Payoh,Below 15,10.7
+2018,Toa Payoh,15  -  24,12.6
+2018,Toa Payoh,25  -  34,8.1
+2018,Toa Payoh,35  -  44,12.3
+2018,Toa Payoh,45  -  54,14.5
+2018,Toa Payoh,55  -  64,16.4
+2018,Toa Payoh,65 & Above,25.4
+2018,Kallang/Whampoa,Below 15,12
+2018,Kallang/Whampoa,15  -  24,8.2
+2018,Kallang/Whampoa,25  -  34,10.6
+2018,Kallang/Whampoa,35  -  44,11.4
+2018,Kallang/Whampoa,45  -  54,13.8
+2018,Kallang/Whampoa,55  -  64,17
+2018,Kallang/Whampoa,65 & Above,27
+2018,Queenstown,Below 15,11.1
+2018,Queenstown,15  -  24,7.8
+2018,Queenstown,25  -  34,12.1
+2018,Queenstown,35  -  44,15
+2018,Queenstown,45  -  54,10.9
+2018,Queenstown,55  -  64,17.7
+2018,Queenstown,65 & Above,25.4
+2018,Geylang,Below 15,11.5
+2018,Geylang,15  -  24,10.4
+2018,Geylang,25  -  34,11.5
+2018,Geylang,35  -  44,12.6
+2018,Geylang,45  -  54,14.8
+2018,Geylang,55  -  64,14.6
+2018,Geylang,65 & Above,24.6
+2018,Clementi,Below 15,11.7
+2018,Clementi,15  -  24,11
+2018,Clementi,25  -  34,11.1
+2018,Clementi,35  -  44,13.1
+2018,Clementi,45  -  54,12.7
+2018,Clementi,55  -  64,16.3
+2018,Clementi,65 & Above,24.1
+2018,Central Area,Below 15,12.4
+2018,Central Area,15  -  24,8.7
+2018,Central Area,25  -  34,8.3
+2018,Central Area,35  -  44,12.8
+2018,Central Area,45  -  54,15.2
+2018,Central Area,55  -  64,16
+2018,Central Area,65 & Above,26.6
+2018,Marine Parade,Below 15,12
+2018,Marine Parade,15  -  24,6.3
+2018,Marine Parade,25  -  34,7.1
+2018,Marine Parade,35  -  44,15.6
+2018,Marine Parade,45  -  54,11.6
+2018,Marine Parade,55  -  64,13.3
+2018,Marine Parade,65 & Above,34.1

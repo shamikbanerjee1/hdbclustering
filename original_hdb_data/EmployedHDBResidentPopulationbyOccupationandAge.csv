@@ -1,0 +1,113 @@
+shs_year,age,occupation,percentage
+2013,15  -  24,"Legislator, senior officials & managers",4.5
+2013,15  -  24,Professionals,10.6
+2013,15  -  24,Associate professionals & technicians,20.7
+2013,15  -  24,Clerical Workers,13.3
+2013,15  -  24,"Service, shop and market sales workers",12.7
+2013,15  -  24,Production craftsmen & related workers and plant & machine operators & assemblers,2.4
+2013,15  -  24,"Cleaners, labourers and related workers",2.5
+2013,15  -  24,Others,33.3
+2013,25  -  34,"Legislator, senior officials & managers",13
+2013,25  -  34,Professionals,24.9
+2013,25  -  34,Associate professionals & technicians,31.8
+2013,25  -  34,Clerical Workers,13.9
+2013,25  -  34,"Service, shop and market sales workers",8.5
+2013,25  -  34,Production craftsmen & related workers and plant & machine operators & assemblers,4.6
+2013,25  -  34,"Cleaners, labourers and related workers",1.5
+2013,25  -  34,Others,1.8
+2013,35  -  44,"Legislator, senior officials & managers",19.6
+2013,35  -  44,Professionals,20.1
+2013,35  -  44,Associate professionals & technicians,24.1
+2013,35  -  44,Clerical Workers,13.2
+2013,35  -  44,"Service, shop and market sales workers",9.3
+2013,35  -  44,Production craftsmen & related workers and plant & machine operators & assemblers,8.2
+2013,35  -  44,"Cleaners, labourers and related workers",4.7
+2013,35  -  44,Others,0.8
+2013,45  -  54,"Legislator, senior officials & managers",14.4
+2013,45  -  54,Professionals,9.2
+2013,45  -  54,Associate professionals & technicians,21.5
+2013,45  -  54,Clerical Workers,14
+2013,45  -  54,"Service, shop and market sales workers",11.8
+2013,45  -  54,Production craftsmen & related workers and plant & machine operators & assemblers,17.2
+2013,45  -  54,"Cleaners, labourers and related workers",11.2
+2013,45  -  54,Others,0.7
+2013,55  -  64,"Legislator, senior officials & managers",9.7
+2013,55  -  64,Professionals,4.3
+2013,55  -  64,Associate professionals & technicians,15.8
+2013,55  -  64,Clerical Workers,10.8
+2013,55  -  64,"Service, shop and market sales workers",16.9
+2013,55  -  64,Production craftsmen & related workers and plant & machine operators & assemblers,22.9
+2013,55  -  64,"Cleaners, labourers and related workers",19
+2013,55  -  64,Others,0.6
+2013,65 & Above,"Legislator, senior officials & managers",3.6
+2013,65 & Above,Professionals,4
+2013,65 & Above,Associate professionals & technicians,7.3
+2013,65 & Above,Clerical Workers,6.7
+2013,65 & Above,"Service, shop and market sales workers",21.6
+2013,65 & Above,Production craftsmen & related workers and plant & machine operators & assemblers,17.7
+2013,65 & Above,"Cleaners, labourers and related workers",38.7
+2013,65 & Above,Others,0.4
+2013,All,"Legislator, senior officials & managers",13.3
+2013,All,Professionals,14.5
+2013,All,Associate professionals & technicians,22.8
+2013,All,Clerical Workers,12.9
+2013,All,"Service, shop and market sales workers",11.8
+2013,All,Production craftsmen & related workers and plant & machine operators & assemblers,11.9
+2013,All,"Cleaners, labourers and related workers",9.2
+2013,All,Others,3.6
+2018,15  -  24,"Legislator, senior officials & managers",1.3
+2018,15  -  24,Professionals,13.1
+2018,15  -  24,Associate professionals & technicians,19.8
+2018,15  -  24,Clerical Workers,13.3
+2018,15  -  24,"Service, shop and market sales workers",13.9
+2018,15  -  24,Production craftsmen & related workers and plant & machine operators & assemblers,2.4
+2018,15  -  24,"Cleaners, labourers and related workers",2.5
+2018,15  -  24,Others,33.7
+2018,25  -  34,"Legislator, senior officials & managers",12.3
+2018,25  -  34,Professionals,33
+2018,25  -  34,Associate professionals & technicians,26.6
+2018,25  -  34,Clerical Workers,9.5
+2018,25  -  34,"Service, shop and market sales workers",8.9
+2018,25  -  34,Production craftsmen & related workers and plant & machine operators & assemblers,4.4
+2018,25  -  34,"Cleaners, labourers and related workers",3.3
+2018,25  -  34,Others,2
+2018,35  -  44,"Legislator, senior officials & managers",19.6
+2018,35  -  44,Professionals,28.9
+2018,35  -  44,Associate professionals & technicians,21.9
+2018,35  -  44,Clerical Workers,9.9
+2018,35  -  44,"Service, shop and market sales workers",9.4
+2018,35  -  44,Production craftsmen & related workers and plant & machine operators & assemblers,6.4
+2018,35  -  44,"Cleaners, labourers and related workers",3.4
+2018,35  -  44,Others,0.5
+2018,45  -  54,"Legislator, senior officials & managers",13.9
+2018,45  -  54,Professionals,17.6
+2018,45  -  54,Associate professionals & technicians,20.3
+2018,45  -  54,Clerical Workers,9.8
+2018,45  -  54,"Service, shop and market sales workers",13
+2018,45  -  54,Production craftsmen & related workers and plant & machine operators & assemblers,16
+2018,45  -  54,"Cleaners, labourers and related workers",8.7
+2018,45  -  54,Others,0.7
+2018,55  -  64,"Legislator, senior officials & managers",9.2
+2018,55  -  64,Professionals,9
+2018,55  -  64,Associate professionals & technicians,14.4
+2018,55  -  64,Clerical Workers,11.1
+2018,55  -  64,"Service, shop and market sales workers",17.4
+2018,55  -  64,Production craftsmen & related workers and plant & machine operators & assemblers,22.5
+2018,55  -  64,"Cleaners, labourers and related workers",15.7
+2018,55  -  64,Others,0.7
+2018,65 & Above,"Legislator, senior officials & managers",5.1
+2018,65 & Above,Professionals,5
+2018,65 & Above,Associate professionals & technicians,6.4
+2018,65 & Above,Clerical Workers,6.7
+2018,65 & Above,"Service, shop and market sales workers",21.3
+2018,65 & Above,Production craftsmen & related workers and plant & machine operators & assemblers,16.9
+2018,65 & Above,"Cleaners, labourers and related workers",37.4
+2018,65 & Above,Others,1.2
+2018,All,"Legislator, senior officials & managers",12.2
+2018,All,Professionals,20.1
+2018,All,Associate professionals & technicians,19.6
+2018,All,Clerical Workers,10
+2018,All,"Service, shop and market sales workers",13
+2018,All,Production craftsmen & related workers and plant & machine operators & assemblers,12
+2018,All,"Cleaners, labourers and related workers",9.7
+2018,All,Others,3.4

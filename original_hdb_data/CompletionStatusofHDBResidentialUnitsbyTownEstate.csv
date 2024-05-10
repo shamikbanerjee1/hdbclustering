@@ -1,0 +1,1425 @@
+financial_year,town_or_estate,hdb_or_dbss,status,no_of_units
+2008,Ang Mo Kio,HDB,Under Construction,1221
+2008,Ang Mo Kio,HDB,Completed,0
+2008,Bedok,HDB,Under Construction,0
+2008,Bedok,HDB,Completed,572
+2008,Bishan,HDB,Under Construction,176
+2008,Bishan,HDB,Completed,0
+2008,Bukit Batok,HDB,Under Construction,0
+2008,Bukit Batok,HDB,Completed,0
+2008,Bukit Merah,HDB,Under Construction,2718
+2008,Bukit Merah,HDB,Completed,0
+2008,Bukit Panjang,HDB,Under Construction,412
+2008,Bukit Panjang,HDB,Completed,0
+2008,Bukit Timah,HDB,Under Construction,0
+2008,Bukit Timah,HDB,Completed,0
+2008,Central Area,HDB,Under Construction,1848
+2008,Central Area,HDB,Completed,0
+2008,Choa Chu Kang,HDB,Under Construction,468
+2008,Choa Chu Kang,HDB,Completed,0
+2008,Clementi,HDB,Under Construction,2622
+2008,Clementi,HDB,Completed,0
+2008,Geylang,HDB,Under Construction,447
+2008,Geylang,HDB,Completed,0
+2008,Hougang,HDB,Under Construction,670
+2008,Hougang,HDB,Completed,0
+2008,Jurong East,HDB,Under Construction,1152
+2008,Jurong East,HDB,Completed,0
+2008,Jurong West,HDB,Under Construction,633
+2008,Jurong West,HDB,Completed,348
+2008,Kallang/Whampoa,HDB,Under Construction,1056
+2008,Kallang/Whampoa,HDB,Completed,0
+2008,Marine Parade,HDB,Under Construction,0
+2008,Marine Parade,HDB,Completed,0
+2008,Pasir Ris,HDB,Under Construction,0
+2008,Pasir Ris,HDB,Completed,0
+2008,Punggol,HDB,Under Construction,5780
+2008,Punggol,HDB,Completed,369
+2008,Queenstown,HDB,Under Construction,3959
+2008,Queenstown,HDB,Completed,0
+2008,Sembawang,HDB,Under Construction,757
+2008,Sembawang,HDB,Completed,0
+2008,Sengkang,HDB,Under Construction,4567
+2008,Sengkang,HDB,Completed,480
+2008,Serangoon,HDB,Under Construction,0
+2008,Serangoon,HDB,Completed,0
+2008,Tampines,HDB,Under Construction,378
+2008,Tampines,HDB,Completed,0
+2008,Toa Payoh,HDB,Under Construction,0
+2008,Toa Payoh,HDB,Completed,0
+2008,Woodlands,HDB,Under Construction,882
+2008,Woodlands,HDB,Completed,0
+2008,Yishun,HDB,Under Construction,1312
+2008,Yishun,HDB,Completed,0
+2009,Ang Mo Kio,HDB,Under Construction,1221
+2009,Ang Mo Kio,HDB,Completed,0
+2009,Bedok,HDB,Under Construction,0
+2009,Bedok,HDB,Completed,0
+2009,Bishan,HDB,Under Construction,176
+2009,Bishan,HDB,Completed,0
+2009,Bukit Batok,HDB,Under Construction,360
+2009,Bukit Batok,HDB,Completed,0
+2009,Bukit Merah,HDB,Under Construction,2718
+2009,Bukit Merah,HDB,Completed,0
+2009,Bukit Panjang,HDB,Under Construction,1183
+2009,Bukit Panjang,HDB,Completed,0
+2009,Bukit Timah,HDB,Under Construction,0
+2009,Bukit Timah,HDB,Completed,0
+2009,Central Area,HDB,Under Construction,0
+2009,Central Area,HDB,Completed,1848
+2009,Choa Chu Kang,HDB,Under Construction,582
+2009,Choa Chu Kang,HDB,Completed,338
+2009,Clementi,HDB,Under Construction,2622
+2009,Clementi,HDB,Completed,0
+2009,Geylang,HDB,Under Construction,354
+2009,Geylang,HDB,Completed,93
+2009,Hougang,HDB,Under Construction,670
+2009,Hougang,HDB,Completed,0
+2009,Jurong East,HDB,Under Construction,1152
+2009,Jurong East,HDB,Completed,0
+2009,Jurong West,HDB,Under Construction,633
+2009,Jurong West,HDB,Completed,0
+2009,Kallang/Whampoa,HDB,Under Construction,1056
+2009,Kallang/Whampoa,HDB,Completed,0
+2009,Marine Parade,HDB,Under Construction,0
+2009,Marine Parade,HDB,Completed,0
+2009,Pasir Ris,HDB,Under Construction,220
+2009,Pasir Ris,HDB,Completed,0
+2009,Punggol,HDB,Under Construction,9401
+2009,Punggol,HDB,Completed,877
+2009,Queenstown,HDB,Under Construction,3996
+2009,Queenstown,HDB,Completed,737
+2009,Sembawang,HDB,Under Construction,0
+2009,Sembawang,HDB,Completed,757
+2009,Sengkang,HDB,Under Construction,5139
+2009,Sengkang,HDB,Completed,1278
+2009,Serangoon,HDB,Under Construction,247
+2009,Serangoon,HDB,Completed,0
+2009,Tampines,HDB,Under Construction,492
+2009,Tampines,HDB,Completed,270
+2009,Toa Payoh,HDB,Under Construction,0
+2009,Toa Payoh,HDB,Completed,0
+2009,Woodlands,HDB,Under Construction,1197
+2009,Woodlands,HDB,Completed,500
+2009,Yishun,HDB,Under Construction,2216
+2009,Yishun,HDB,Completed,352
+2010,Ang Mo Kio,HDB,Under Construction,332
+2010,Ang Mo Kio,HDB,Completed,889
+2010,Bedok,HDB,Under Construction,0
+2010,Bedok,HDB,Completed,0
+2010,Bishan,HDB,Under Construction,0
+2010,Bishan,HDB,Completed,176
+2010,Bukit Batok,HDB,Under Construction,360
+2010,Bukit Batok,HDB,Completed,0
+2010,Bukit Merah,HDB,Under Construction,3418
+2010,Bukit Merah,HDB,Completed,0
+2010,Bukit Panjang,HDB,Under Construction,1996
+2010,Bukit Panjang,HDB,Completed,456
+2010,Bukit Timah,HDB,Under Construction,0
+2010,Bukit Timah,HDB,Completed,0
+2010,Central Area,HDB,Under Construction,0
+2010,Central Area,HDB,Completed,0
+2010,Choa Chu Kang,HDB,Under Construction,1616
+2010,Choa Chu Kang,HDB,Completed,130
+2010,Clementi,HDB,Under Construction,2490
+2010,Clementi,HDB,Completed,132
+2010,Geylang,HDB,Under Construction,0
+2010,Geylang,HDB,Completed,354
+2010,Hougang,HDB,Under Construction,1448
+2010,Hougang,HDB,Completed,670
+2010,Jurong East,HDB,Under Construction,2019
+2010,Jurong East,HDB,Completed,0
+2010,Jurong West,HDB,Under Construction,1620
+2010,Jurong West,HDB,Completed,633
+2010,Kallang/Whampoa,HDB,Under Construction,0
+2010,Kallang/Whampoa,HDB,Completed,1056
+2010,Marine Parade,HDB,Under Construction,0
+2010,Marine Parade,HDB,Completed,0
+2010,Pasir Ris,HDB,Under Construction,220
+2010,Pasir Ris,HDB,Completed,0
+2010,Punggol,HDB,Under Construction,11192
+2010,Punggol,HDB,Completed,2538
+2010,Queenstown,HDB,Under Construction,3886
+2010,Queenstown,HDB,Completed,1828
+2010,Sembawang,HDB,Under Construction,856
+2010,Sembawang,HDB,Completed,0
+2010,Sengkang,HDB,Under Construction,5606
+2010,Sengkang,HDB,Completed,2174
+2010,Serangoon,HDB,Under Construction,247
+2010,Serangoon,HDB,Completed,0
+2010,Tampines,HDB,Under Construction,839
+2010,Tampines,HDB,Completed,108
+2010,Toa Payoh,HDB,Under Construction,0
+2010,Toa Payoh,HDB,Completed,0
+2010,Woodlands,HDB,Under Construction,2813
+2010,Woodlands,HDB,Completed,0
+2010,Yishun,HDB,Under Construction,2072
+2010,Yishun,HDB,Completed,744
+2011,Ang Mo Kio,HDB,Under Construction,256
+2011,Ang Mo Kio,HDB,Completed,332
+2011,Ang Mo Kio,DBSS,Under Construction,0
+2011,Ang Mo Kio,DBSS,Completed,578
+2011,Bedok,HDB,Under Construction,0
+2011,Bedok,HDB,Completed,0
+2011,Bedok,DBSS,Under Construction,488
+2011,Bedok,DBSS,Completed,0
+2011,Bishan,HDB,Under Construction,0
+2011,Bishan,HDB,Completed,0
+2011,Bishan,DBSS,Under Construction,0
+2011,Bishan,DBSS,Completed,480
+2011,Bukit Batok,HDB,Under Construction,180
+2011,Bukit Batok,HDB,Completed,360
+2011,Bukit Batok,DBSS,Under Construction,0
+2011,Bukit Batok,DBSS,Completed,0
+2011,Bukit Merah,HDB,Under Construction,700
+2011,Bukit Merah,HDB,Completed,2718
+2011,Bukit Merah,DBSS,Under Construction,0
+2011,Bukit Merah,DBSS,Completed,0
+2011,Bukit Panjang,HDB,Under Construction,4019
+2011,Bukit Panjang,HDB,Completed,490
+2011,Bukit Panjang,DBSS,Under Construction,0
+2011,Bukit Panjang,DBSS,Completed,0
+2011,Bukit Timah,HDB,Under Construction,0
+2011,Bukit Timah,HDB,Completed,0
+2011,Bukit Timah,DBSS,Under Construction,0
+2011,Bukit Timah,DBSS,Completed,0
+2011,Central Area,HDB,Under Construction,0
+2011,Central Area,HDB,Completed,0
+2011,Central Area,DBSS,Under Construction,0
+2011,Central Area,DBSS,Completed,0
+2011,Choa Chu Kang,HDB,Under Construction,1164
+2011,Choa Chu Kang,HDB,Completed,452
+2011,Choa Chu Kang,DBSS,Under Construction,0
+2011,Choa Chu Kang,DBSS,Completed,0
+2011,Clementi,HDB,Under Construction,444
+2011,Clementi,HDB,Completed,2046
+2011,Clementi,DBSS,Under Construction,888
+2011,Clementi,DBSS,Completed,0
+2011,Geylang,HDB,Under Construction,0
+2011,Geylang,HDB,Completed,0
+2011,Geylang,DBSS,Under Construction,0
+2011,Geylang,DBSS,Completed,0
+2011,Hougang,HDB,Under Construction,3021
+2011,Hougang,HDB,Completed,0
+2011,Hougang,DBSS,Under Construction,680
+2011,Hougang,DBSS,Completed,0
+2011,Jurong East,HDB,Under Construction,1229
+2011,Jurong East,HDB,Completed,1308
+2011,Jurong East,DBSS,Under Construction,0
+2011,Jurong East,DBSS,Completed,0
+2011,Jurong West,HDB,Under Construction,2533
+2011,Jurong West,HDB,Completed,0
+2011,Jurong West,DBSS,Under Construction,682
+2011,Jurong West,DBSS,Completed,0
+2011,Kallang/Whampoa,HDB,Under Construction,0
+2011,Kallang/Whampoa,HDB,Completed,0
+2011,Kallang/Whampoa,DBSS,Under Construction,0
+2011,Kallang/Whampoa,DBSS,Completed,0
+2011,Marine Parade,HDB,Under Construction,0
+2011,Marine Parade,HDB,Completed,0
+2011,Marine Parade,DBSS,Under Construction,0
+2011,Marine Parade,DBSS,Completed,0
+2011,Pasir Ris,HDB,Under Construction,1571
+2011,Pasir Ris,HDB,Completed,220
+2011,Pasir Ris,DBSS,Under Construction,447
+2011,Pasir Ris,DBSS,Completed,0
+2011,Punggol,HDB,Under Construction,13862
+2011,Punggol,HDB,Completed,4341
+2011,Punggol,DBSS,Under Construction,0
+2011,Punggol,DBSS,Completed,0
+2011,Queenstown,HDB,Under Construction,2492
+2011,Queenstown,HDB,Completed,1394
+2011,Queenstown,DBSS,Under Construction,0
+2011,Queenstown,DBSS,Completed,0
+2011,Sembawang,HDB,Under Construction,1434
+2011,Sembawang,HDB,Completed,0
+2011,Sembawang,DBSS,Under Construction,0
+2011,Sembawang,DBSS,Completed,0
+2011,Sengkang,HDB,Under Construction,12898
+2011,Sengkang,HDB,Completed,1827
+2011,Sengkang,DBSS,Under Construction,0
+2011,Sengkang,DBSS,Completed,0
+2011,Serangoon,HDB,Under Construction,0
+2011,Serangoon,HDB,Completed,247
+2011,Serangoon,DBSS,Under Construction,0
+2011,Serangoon,DBSS,Completed,0
+2011,Tampines,HDB,Under Construction,2670
+2011,Tampines,HDB,Completed,384
+2011,Tampines,DBSS,Under Construction,708
+2011,Tampines,DBSS,Completed,0
+2011,Toa Payoh,HDB,Under Construction,0
+2011,Toa Payoh,HDB,Completed,0
+2011,Toa Payoh,DBSS,Under Construction,1203
+2011,Toa Payoh,DBSS,Completed,0
+2011,Woodlands,HDB,Under Construction,3864
+2011,Woodlands,HDB,Completed,500
+2011,Woodlands,DBSS,Under Construction,0
+2011,Woodlands,DBSS,Completed,0
+2011,Yishun,HDB,Under Construction,6394
+2011,Yishun,HDB,Completed,1328
+2011,Yishun,DBSS,Under Construction,806
+2011,Yishun,DBSS,Completed,0
+2012,Ang Mo Kio,HDB,Under Construction,1544
+2012,Ang Mo Kio,HDB,Completed,0
+2012,Ang Mo Kio,DBSS,Under Construction,0
+2012,Ang Mo Kio,DBSS,Completed,0
+2012,Bedok,HDB,Under Construction,2039
+2012,Bedok,HDB,Completed,0
+2012,Bedok,DBSS,Under Construction,488
+2012,Bedok,DBSS,Completed,0
+2012,Bishan,HDB,Under Construction,0
+2012,Bishan,HDB,Completed,0
+2012,Bishan,DBSS,Under Construction,0
+2012,Bishan,DBSS,Completed,0
+2012,Bukit Batok,HDB,Under Construction,1636
+2012,Bukit Batok,HDB,Completed,0
+2012,Bukit Batok,DBSS,Under Construction,0
+2012,Bukit Batok,DBSS,Completed,0
+2012,Bukit Merah,HDB,Under Construction,1610
+2012,Bukit Merah,HDB,Completed,0
+2012,Bukit Merah,DBSS,Under Construction,0
+2012,Bukit Merah,DBSS,Completed,0
+2012,Bukit Panjang,HDB,Under Construction,4644
+2012,Bukit Panjang,HDB,Completed,237
+2012,Bukit Panjang,DBSS,Under Construction,0
+2012,Bukit Panjang,DBSS,Completed,0
+2012,Bukit Timah,HDB,Under Construction,132
+2012,Bukit Timah,HDB,Completed,0
+2012,Bukit Timah,DBSS,Under Construction,0
+2012,Bukit Timah,DBSS,Completed,0
+2012,Central Area,HDB,Under Construction,0
+2012,Central Area,HDB,Completed,0
+2012,Central Area,DBSS,Under Construction,0
+2012,Central Area,DBSS,Completed,0
+2012,Choa Chu Kang,HDB,Under Construction,6358
+2012,Choa Chu Kang,HDB,Completed,290
+2012,Choa Chu Kang,DBSS,Under Construction,0
+2012,Choa Chu Kang,DBSS,Completed,0
+2012,Clementi,HDB,Under Construction,962
+2012,Clementi,HDB,Completed,444
+2012,Clementi,DBSS,Under Construction,888
+2012,Clementi,DBSS,Completed,0
+2012,Geylang,HDB,Under Construction,975
+2012,Geylang,HDB,Completed,0
+2012,Geylang,DBSS,Under Construction,0
+2012,Geylang,DBSS,Completed,0
+2012,Hougang,HDB,Under Construction,2104
+2012,Hougang,HDB,Completed,1296
+2012,Hougang,DBSS,Under Construction,680
+2012,Hougang,DBSS,Completed,0
+2012,Jurong East,HDB,Under Construction,518
+2012,Jurong East,HDB,Completed,711
+2012,Jurong East,DBSS,Under Construction,0
+2012,Jurong East,DBSS,Completed,0
+2012,Jurong West,HDB,Under Construction,1828
+2012,Jurong West,HDB,Completed,705
+2012,Jurong West,DBSS,Under Construction,682
+2012,Jurong West,DBSS,Completed,0
+2012,Kallang/Whampoa,HDB,Under Construction,3048
+2012,Kallang/Whampoa,HDB,Completed,0
+2012,Kallang/Whampoa,DBSS,Under Construction,0
+2012,Kallang/Whampoa,DBSS,Completed,0
+2012,Marine Parade,HDB,Under Construction,0
+2012,Marine Parade,HDB,Completed,0
+2012,Marine Parade,DBSS,Under Construction,0
+2012,Marine Parade,DBSS,Completed,0
+2012,Pasir Ris,HDB,Under Construction,1571
+2012,Pasir Ris,HDB,Completed,0
+2012,Pasir Ris,DBSS,Under Construction,447
+2012,Pasir Ris,DBSS,Completed,0
+2012,Punggol,HDB,Under Construction,13588
+2012,Punggol,HDB,Completed,3780
+2012,Punggol,DBSS,Under Construction,0
+2012,Punggol,DBSS,Completed,0
+2012,Queenstown,HDB,Under Construction,2275
+2012,Queenstown,HDB,Completed,217
+2012,Queenstown,DBSS,Under Construction,0
+2012,Queenstown,DBSS,Completed,0
+2012,Sembawang,HDB,Under Construction,1890
+2012,Sembawang,HDB,Completed,0
+2012,Sembawang,DBSS,Under Construction,0
+2012,Sembawang,DBSS,Completed,0
+2012,Sengkang,HDB,Under Construction,13297
+2012,Sengkang,HDB,Completed,2231
+2012,Sengkang,DBSS,Under Construction,0
+2012,Sengkang,DBSS,Completed,0
+2012,Serangoon,HDB,Under Construction,0
+2012,Serangoon,HDB,Completed,0
+2012,Serangoon,DBSS,Under Construction,0
+2012,Serangoon,DBSS,Completed,0
+2012,Tampines,HDB,Under Construction,2595
+2012,Tampines,HDB,Completed,455
+2012,Tampines,DBSS,Under Construction,708
+2012,Tampines,DBSS,Completed,0
+2012,Toa Payoh,HDB,Under Construction,436
+2012,Toa Payoh,HDB,Completed,0
+2012,Toa Payoh,DBSS,Under Construction,0
+2012,Toa Payoh,DBSS,Completed,1203
+2012,Woodlands,HDB,Under Construction,2961
+2012,Woodlands,HDB,Completed,1031
+2012,Woodlands,DBSS,Under Construction,0
+2012,Woodlands,DBSS,Completed,0
+2012,Yishun,HDB,Under Construction,6726
+2012,Yishun,HDB,Completed,144
+2012,Yishun,DBSS,Under Construction,806
+2012,Yishun,DBSS,Completed,0
+2013,Ang Mo Kio,HDB,Under Construction,1827
+2013,Ang Mo Kio,HDB,Completed,0
+2013,Ang Mo Kio,DBSS,Under Construction,0
+2013,Ang Mo Kio,DBSS,Completed,0
+2013,Bedok,HDB,Under Construction,2585
+2013,Bedok,HDB,Completed,0
+2013,Bedok,DBSS,Under Construction,488
+2013,Bedok,DBSS,Completed,0
+2013,Bishan,HDB,Under Construction,408
+2013,Bishan,HDB,Completed,0
+2013,Bishan,DBSS,Under Construction,0
+2013,Bishan,DBSS,Completed,0
+2013,Bukit Batok,HDB,Under Construction,2886
+2013,Bukit Batok,HDB,Completed,180
+2013,Bukit Batok,DBSS,Under Construction,0
+2013,Bukit Batok,DBSS,Completed,0
+2013,Bukit Merah,HDB,Under Construction,4322
+2013,Bukit Merah,HDB,Completed,0
+2013,Bukit Merah,DBSS,Under Construction,0
+2013,Bukit Merah,DBSS,Completed,0
+2013,Bukit Panjang,HDB,Under Construction,3828
+2013,Bukit Panjang,HDB,Completed,816
+2013,Bukit Panjang,DBSS,Under Construction,0
+2013,Bukit Panjang,DBSS,Completed,0
+2013,Bukit Timah,HDB,Under Construction,132
+2013,Bukit Timah,HDB,Completed,0
+2013,Bukit Timah,DBSS,Under Construction,0
+2013,Bukit Timah,DBSS,Completed,0
+2013,Central Area,HDB,Under Construction,0
+2013,Central Area,HDB,Completed,0
+2013,Central Area,DBSS,Under Construction,0
+2013,Central Area,DBSS,Completed,0
+2013,Choa Chu Kang,HDB,Under Construction,7644
+2013,Choa Chu Kang,HDB,Completed,874
+2013,Choa Chu Kang,DBSS,Under Construction,0
+2013,Choa Chu Kang,DBSS,Completed,0
+2013,Clementi,HDB,Under Construction,1464
+2013,Clementi,HDB,Completed,0
+2013,Clementi,DBSS,Under Construction,888
+2013,Clementi,DBSS,Completed,0
+2013,Geylang,HDB,Under Construction,1568
+2013,Geylang,HDB,Completed,0
+2013,Geylang,DBSS,Under Construction,0
+2013,Geylang,DBSS,Completed,0
+2013,Hougang,HDB,Under Construction,3556
+2013,Hougang,HDB,Completed,464
+2013,Hougang,DBSS,Under Construction,680
+2013,Hougang,DBSS,Completed,0
+2013,Jurong East,HDB,Under Construction,518
+2013,Jurong East,HDB,Completed,0
+2013,Jurong East,DBSS,Under Construction,0
+2013,Jurong East,DBSS,Completed,0
+2013,Jurong West,HDB,Under Construction,2738
+2013,Jurong West,HDB,Completed,1078
+2013,Jurong West,DBSS,Under Construction,682
+2013,Jurong West,DBSS,Completed,0
+2013,Kallang/Whampoa,HDB,Under Construction,3453
+2013,Kallang/Whampoa,HDB,Completed,0
+2013,Kallang/Whampoa,DBSS,Under Construction,0
+2013,Kallang/Whampoa,DBSS,Completed,0
+2013,Marine Parade,HDB,Under Construction,0
+2013,Marine Parade,HDB,Completed,0
+2013,Marine Parade,DBSS,Under Construction,0
+2013,Marine Parade,DBSS,Completed,0
+2013,Pasir Ris,HDB,Under Construction,1386
+2013,Pasir Ris,HDB,Completed,185
+2013,Pasir Ris,DBSS,Under Construction,447
+2013,Pasir Ris,DBSS,Completed,0
+2013,Punggol,HDB,Under Construction,14135
+2013,Punggol,HDB,Completed,2238
+2013,Punggol,DBSS,Under Construction,0
+2013,Punggol,DBSS,Completed,0
+2013,Queenstown,HDB,Under Construction,2897
+2013,Queenstown,HDB,Completed,557
+2013,Queenstown,DBSS,Under Construction,0
+2013,Queenstown,DBSS,Completed,0
+2013,Sembawang,HDB,Under Construction,3076
+2013,Sembawang,HDB,Completed,1434
+2013,Sembawang,DBSS,Under Construction,0
+2013,Sembawang,DBSS,Completed,0
+2013,Sengkang,HDB,Under Construction,12644
+2013,Sengkang,HDB,Completed,3378
+2013,Sengkang,DBSS,Under Construction,0
+2013,Sengkang,DBSS,Completed,0
+2013,Serangoon,HDB,Under Construction,195
+2013,Serangoon,HDB,Completed,0
+2013,Serangoon,DBSS,Under Construction,0
+2013,Serangoon,DBSS,Completed,0
+2013,Tampines,HDB,Under Construction,2680
+2013,Tampines,HDB,Completed,849
+2013,Tampines,DBSS,Under Construction,708
+2013,Tampines,DBSS,Completed,0
+2013,Toa Payoh,HDB,Under Construction,1443
+2013,Toa Payoh,HDB,Completed,0
+2013,Toa Payoh,DBSS,Under Construction,0
+2013,Toa Payoh,DBSS,Completed,0
+2013,Woodlands,HDB,Under Construction,3317
+2013,Woodlands,HDB,Completed,1924
+2013,Woodlands,DBSS,Under Construction,0
+2013,Woodlands,DBSS,Completed,0
+2013,Yishun,HDB,Under Construction,7596
+2013,Yishun,HDB,Completed,2904
+2013,Yishun,DBSS,Under Construction,0
+2013,Yishun,DBSS,Completed,806
+2014,Ang Mo Kio,HDB,Under Construction,1571
+2014,Ang Mo Kio,HDB,Completed,256
+2014,Ang Mo Kio,DBSS,Under Construction,0
+2014,Ang Mo Kio,DBSS,Completed,0
+2014,Bedok,HDB,Under Construction,2162
+2014,Bedok,HDB,Completed,423
+2014,Bedok,DBSS,Under Construction,0
+2014,Bedok,DBSS,Completed,488
+2014,Bishan,HDB,Under Construction,408
+2014,Bishan,HDB,Completed,0
+2014,Bishan,DBSS,Under Construction,0
+2014,Bishan,DBSS,Completed,0
+2014,Bukit Batok,HDB,Under Construction,8340
+2014,Bukit Batok,HDB,Completed,700
+2014,Bukit Batok,DBSS,Under Construction,0
+2014,Bukit Batok,DBSS,Completed,0
+2014,Bukit Merah,HDB,Under Construction,3622
+2014,Bukit Merah,HDB,Completed,2966
+2014,Bukit Merah,DBSS,Under Construction,0
+2014,Bukit Merah,DBSS,Completed,0
+2014,Bukit Panjang,HDB,Under Construction,862
+2014,Bukit Panjang,HDB,Completed,1136
+2014,Bukit Panjang,DBSS,Under Construction,0
+2014,Bukit Panjang,DBSS,Completed,0
+2014,Bukit Timah,HDB,Under Construction,132
+2014,Bukit Timah,HDB,Completed,0
+2014,Bukit Timah,DBSS,Under Construction,0
+2014,Bukit Timah,DBSS,Completed,0
+2014,Central Area,HDB,Under Construction,0
+2014,Central Area,HDB,Completed,0
+2014,Central Area,DBSS,Under Construction,0
+2014,Central Area,DBSS,Completed,0
+2014,Choa Chu Kang,HDB,Under Construction,6508
+2014,Choa Chu Kang,HDB,Completed,0
+2014,Choa Chu Kang,DBSS,Under Construction,0
+2014,Choa Chu Kang,DBSS,Completed,0
+2014,Clementi,HDB,Under Construction,1464
+2014,Clementi,HDB,Completed,0
+2014,Clementi,DBSS,Under Construction,0
+2014,Clementi,DBSS,Completed,888
+2014,Geylang,HDB,Under Construction,1559
+2014,Geylang,HDB,Completed,0
+2014,Geylang,DBSS,Under Construction,0
+2014,Geylang,DBSS,Completed,0
+2014,Hougang,HDB,Under Construction,3408
+2014,Hougang,HDB,Completed,1340
+2014,Hougang,DBSS,Under Construction,0
+2014,Hougang,DBSS,Completed,680
+2014,Jurong East,HDB,Under Construction,518
+2014,Jurong East,HDB,Completed,0
+2014,Jurong East,DBSS,Under Construction,0
+2014,Jurong East,DBSS,Completed,0
+2014,Jurong West,HDB,Under Construction,4118
+2014,Jurong West,HDB,Completed,750
+2014,Jurong West,DBSS,Under Construction,0
+2014,Jurong West,DBSS,Completed,682
+2014,Kallang/Whampoa,HDB,Under Construction,4191
+2014,Kallang/Whampoa,HDB,Completed,0
+2014,Kallang/Whampoa,DBSS,Under Construction,0
+2014,Kallang/Whampoa,DBSS,Completed,0
+2014,Marine Parade,HDB,Under Construction,0
+2014,Marine Parade,HDB,Completed,0
+2014,Marine Parade,DBSS,Under Construction,0
+2014,Marine Parade,DBSS,Completed,0
+2014,Pasir Ris,HDB,Under Construction,0
+2014,Pasir Ris,HDB,Completed,1386
+2014,Pasir Ris,DBSS,Under Construction,447
+2014,Pasir Ris,DBSS,Completed,0
+2014,Punggol,HDB,Under Construction,14394
+2014,Punggol,HDB,Completed,4638
+2014,Punggol,DBSS,Under Construction,0
+2014,Punggol,DBSS,Completed,0
+2014,Queenstown,HDB,Under Construction,2139
+2014,Queenstown,HDB,Completed,758
+2014,Queenstown,DBSS,Under Construction,0
+2014,Queenstown,DBSS,Completed,0
+2014,Sembawang,HDB,Under Construction,6847
+2014,Sembawang,HDB,Completed,456
+2014,Sembawang,DBSS,Under Construction,0
+2014,Sembawang,DBSS,Completed,0
+2014,Sengkang,HDB,Under Construction,7619
+2014,Sengkang,HDB,Completed,6039
+2014,Sengkang,DBSS,Under Construction,0
+2014,Sengkang,DBSS,Completed,0
+2014,Serangoon,HDB,Under Construction,345
+2014,Serangoon,HDB,Completed,0
+2014,Serangoon,DBSS,Under Construction,0
+2014,Serangoon,DBSS,Completed,0
+2014,Tampines,HDB,Under Construction,4159
+2014,Tampines,HDB,Completed,1366
+2014,Tampines,DBSS,Under Construction,0
+2014,Tampines,DBSS,Completed,708
+2014,Toa Payoh,HDB,Under Construction,2000
+2014,Toa Payoh,HDB,Completed,0
+2014,Toa Payoh,DBSS,Under Construction,0
+2014,Toa Payoh,DBSS,Completed,0
+2014,Woodlands,HDB,Under Construction,7267
+2014,Woodlands,HDB,Completed,687
+2014,Woodlands,DBSS,Under Construction,0
+2014,Woodlands,DBSS,Completed,0
+2014,Yishun,HDB,Under Construction,7167
+2014,Yishun,HDB,Completed,3822
+2014,Yishun,DBSS,Under Construction,0
+2014,Yishun,DBSS,Completed,0
+2015,Ang Mo Kio,HDB,Under Construction,1571
+2015,Ang Mo Kio,HDB,Completed,0
+2015,Ang Mo Kio,DBSS,Under Construction,0
+2015,Ang Mo Kio,DBSS,Completed,0
+2015,Bedok,HDB,Under Construction,1058
+2015,Bedok,HDB,Completed,1104
+2015,Bedok,DBSS,Under Construction,0
+2015,Bedok,DBSS,Completed,0
+2015,Bishan,HDB,Under Construction,408
+2015,Bishan,HDB,Completed,0
+2015,Bishan,DBSS,Under Construction,0
+2015,Bishan,DBSS,Completed,0
+2015,Bukit Batok,HDB,Under Construction,10494
+2015,Bukit Batok,HDB,Completed,224
+2015,Bukit Batok,DBSS,Under Construction,0
+2015,Bukit Batok,DBSS,Completed,0
+2015,Bukit Merah,HDB,Under Construction,3282
+2015,Bukit Merah,HDB,Completed,340
+2015,Bukit Merah,DBSS,Under Construction,0
+2015,Bukit Merah,DBSS,Completed,0
+2015,Bukit Panjang,HDB,Under Construction,0
+2015,Bukit Panjang,HDB,Completed,862
+2015,Bukit Panjang,DBSS,Under Construction,0
+2015,Bukit Panjang,DBSS,Completed,0
+2015,Bukit Timah,HDB,Under Construction,0
+2015,Bukit Timah,HDB,Completed,132
+2015,Bukit Timah,DBSS,Under Construction,0
+2015,Bukit Timah,DBSS,Completed,0
+2015,Central Area,HDB,Under Construction,0
+2015,Central Area,HDB,Completed,0
+2015,Central Area,DBSS,Under Construction,0
+2015,Central Area,DBSS,Completed,0
+2015,Choa Chu Kang,HDB,Under Construction,2602
+2015,Choa Chu Kang,HDB,Completed,4032
+2015,Choa Chu Kang,DBSS,Under Construction,0
+2015,Choa Chu Kang,DBSS,Completed,0
+2015,Clementi,HDB,Under Construction,1849
+2015,Clementi,HDB,Completed,0
+2015,Clementi,DBSS,Under Construction,0
+2015,Clementi,DBSS,Completed,0
+2015,Geylang,HDB,Under Construction,1334
+2015,Geylang,HDB,Completed,975
+2015,Geylang,DBSS,Under Construction,0
+2015,Geylang,DBSS,Completed,0
+2015,Hougang,HDB,Under Construction,4039
+2015,Hougang,HDB,Completed,878
+2015,Hougang,DBSS,Under Construction,0
+2015,Hougang,DBSS,Completed,0
+2015,Jurong East,HDB,Under Construction,225
+2015,Jurong East,HDB,Completed,518
+2015,Jurong East,DBSS,Under Construction,0
+2015,Jurong East,DBSS,Completed,0
+2015,Jurong West,HDB,Under Construction,3770
+2015,Jurong West,HDB,Completed,348
+2015,Jurong West,DBSS,Under Construction,0
+2015,Jurong West,DBSS,Completed,0
+2015,Kallang/Whampoa,HDB,Under Construction,3565
+2015,Kallang/Whampoa,HDB,Completed,626
+2015,Kallang/Whampoa,DBSS,Under Construction,0
+2015,Kallang/Whampoa,DBSS,Completed,0
+2015,Marine Parade,HDB,Under Construction,0
+2015,Marine Parade,HDB,Completed,0
+2015,Marine Parade,DBSS,Under Construction,0
+2015,Marine Parade,DBSS,Completed,0
+2015,Pasir Ris,HDB,Under Construction,0
+2015,Pasir Ris,HDB,Completed,0
+2015,Pasir Ris,DBSS,Under Construction,0
+2015,Pasir Ris,DBSS,Completed,447
+2015,Punggol,HDB,Under Construction,12279
+2015,Punggol,HDB,Completed,6232
+2015,Punggol,DBSS,Under Construction,0
+2015,Punggol,DBSS,Completed,0
+2015,Queenstown,HDB,Under Construction,4887
+2015,Queenstown,HDB,Completed,960
+2015,Queenstown,DBSS,Under Construction,0
+2015,Queenstown,DBSS,Completed,0
+2015,Sembawang,HDB,Under Construction,7888
+2015,Sembawang,HDB,Completed,0
+2015,Sembawang,DBSS,Under Construction,0
+2015,Sembawang,DBSS,Completed,0
+2015,Sengkang,HDB,Under Construction,5229
+2015,Sengkang,HDB,Completed,3550
+2015,Sengkang,DBSS,Under Construction,0
+2015,Sengkang,DBSS,Completed,0
+2015,Serangoon,HDB,Under Construction,150
+2015,Serangoon,HDB,Completed,195
+2015,Serangoon,DBSS,Under Construction,0
+2015,Serangoon,DBSS,Completed,0
+2015,Tampines,HDB,Under Construction,4913
+2015,Tampines,HDB,Completed,462
+2015,Tampines,DBSS,Under Construction,0
+2015,Tampines,DBSS,Completed,0
+2015,Toa Payoh,HDB,Under Construction,3703
+2015,Toa Payoh,HDB,Completed,436
+2015,Toa Payoh,DBSS,Under Construction,0
+2015,Toa Payoh,DBSS,Completed,0
+2015,Woodlands,HDB,Under Construction,6265
+2015,Woodlands,HDB,Completed,1002
+2015,Woodlands,DBSS,Under Construction,0
+2015,Woodlands,DBSS,Completed,0
+2015,Yishun,HDB,Under Construction,6796
+2015,Yishun,HDB,Completed,840
+2015,Yishun,DBSS,Under Construction,0
+2015,Yishun,DBSS,Completed,0
+2016,Ang Mo Kio,HDB,Under Construction,1302
+2016,Ang Mo Kio,HDB,Completed,859
+2016,Ang Mo Kio,DBSS,Under Construction,0
+2016,Ang Mo Kio,DBSS,Completed,0
+2016,Bedok,HDB,Under Construction,1718
+2016,Bedok,HDB,Completed,0
+2016,Bedok,DBSS,Under Construction,0
+2016,Bedok,DBSS,Completed,0
+2016,Bishan,HDB,Under Construction,0
+2016,Bishan,HDB,Completed,408
+2016,Bishan,DBSS,Under Construction,0
+2016,Bishan,DBSS,Completed,0
+2016,Bukit Batok,HDB,Under Construction,11860
+2016,Bukit Batok,HDB,Completed,1232
+2016,Bukit Batok,DBSS,Under Construction,0
+2016,Bukit Batok,DBSS,Completed,0
+2016,Bukit Merah,HDB,Under Construction,2712
+2016,Bukit Merah,HDB,Completed,570
+2016,Bukit Merah,DBSS,Under Construction,0
+2016,Bukit Merah,DBSS,Completed,0
+2016,Bukit Panjang,HDB,Under Construction,1773
+2016,Bukit Panjang,HDB,Completed,0
+2016,Bukit Panjang,DBSS,Under Construction,0
+2016,Bukit Panjang,DBSS,Completed,0
+2016,Bukit Timah,HDB,Under Construction,0
+2016,Bukit Timah,HDB,Completed,0
+2016,Bukit Timah,DBSS,Under Construction,0
+2016,Bukit Timah,DBSS,Completed,0
+2016,Central Area,HDB,Under Construction,0
+2016,Central Area,HDB,Completed,0
+2016,Central Area,DBSS,Under Construction,0
+2016,Central Area,DBSS,Completed,0
+2016,Choa Chu Kang,HDB,Under Construction,126
+2016,Choa Chu Kang,HDB,Completed,2476
+2016,Choa Chu Kang,DBSS,Under Construction,0
+2016,Choa Chu Kang,DBSS,Completed,0
+2016,Clementi,HDB,Under Construction,887
+2016,Clementi,HDB,Completed,962
+2016,Clementi,DBSS,Under Construction,0
+2016,Clementi,DBSS,Completed,0
+2016,Geylang,HDB,Under Construction,750
+2016,Geylang,HDB,Completed,584
+2016,Geylang,DBSS,Under Construction,0
+2016,Geylang,DBSS,Completed,0
+2016,Hougang,HDB,Under Construction,3697
+2016,Hougang,HDB,Completed,1338
+2016,Hougang,DBSS,Under Construction,0
+2016,Hougang,DBSS,Completed,0
+2016,Jurong East,HDB,Under Construction,225
+2016,Jurong East,HDB,Completed,0
+2016,Jurong East,DBSS,Under Construction,0
+2016,Jurong East,DBSS,Completed,0
+2016,Jurong West,HDB,Under Construction,2130
+2016,Jurong West,HDB,Completed,1640
+2016,Jurong West,DBSS,Under Construction,0
+2016,Jurong West,DBSS,Completed,0
+2016,Kallang/Whampoa,HDB,Under Construction,738
+2016,Kallang/Whampoa,HDB,Completed,2827
+2016,Kallang/Whampoa,DBSS,Under Construction,0
+2016,Kallang/Whampoa,DBSS,Completed,0
+2016,Marine Parade,HDB,Under Construction,0
+2016,Marine Parade,HDB,Completed,0
+2016,Marine Parade,DBSS,Under Construction,0
+2016,Marine Parade,DBSS,Completed,0
+2016,Pasir Ris,HDB,Under Construction,0
+2016,Pasir Ris,HDB,Completed,0
+2016,Pasir Ris,DBSS,Under Construction,0
+2016,Pasir Ris,DBSS,Completed,0
+2016,Punggol,HDB,Under Construction,10641
+2016,Punggol,HDB,Completed,1638
+2016,Punggol,DBSS,Under Construction,0
+2016,Punggol,DBSS,Completed,0
+2016,Queenstown,HDB,Under Construction,4887
+2016,Queenstown,HDB,Completed,0
+2016,Queenstown,DBSS,Under Construction,0
+2016,Queenstown,DBSS,Completed,0
+2016,Sembawang,HDB,Under Construction,7149
+2016,Sembawang,HDB,Completed,2561
+2016,Sembawang,DBSS,Under Construction,0
+2016,Sembawang,DBSS,Completed,0
+2016,Sengkang,HDB,Under Construction,3216
+2016,Sengkang,HDB,Completed,2934
+2016,Sengkang,DBSS,Under Construction,0
+2016,Sengkang,DBSS,Completed,0
+2016,Serangoon,HDB,Under Construction,150
+2016,Serangoon,HDB,Completed,0
+2016,Serangoon,DBSS,Under Construction,0
+2016,Serangoon,DBSS,Completed,0
+2016,Tampines,HDB,Under Construction,6797
+2016,Tampines,HDB,Completed,852
+2016,Tampines,DBSS,Under Construction,0
+2016,Tampines,DBSS,Completed,0
+2016,Toa Payoh,HDB,Under Construction,4832
+2016,Toa Payoh,HDB,Completed,465
+2016,Toa Payoh,DBSS,Under Construction,0
+2016,Toa Payoh,DBSS,Completed,0
+2016,Woodlands,HDB,Under Construction,5447
+2016,Woodlands,HDB,Completed,818
+2016,Woodlands,DBSS,Under Construction,0
+2016,Woodlands,DBSS,Completed,0
+2016,Yishun,HDB,Under Construction,4254
+2016,Yishun,HDB,Completed,3366
+2016,Yishun,DBSS,Under Construction,0
+2016,Yishun,DBSS,Completed,0
+2017,Ang Mo Kio,HDB,Under Construction,590
+2017,Ang Mo Kio,HDB,Completed,712
+2017,Ang Mo Kio,DBSS,Under Construction,0
+2017,Ang Mo Kio,DBSS,Completed,0
+2017,Bedok,HDB,Under Construction,2645
+2017,Bedok,HDB,Completed,728
+2017,Bedok,DBSS,Under Construction,0
+2017,Bedok,DBSS,Completed,0
+2017,Bishan,HDB,Under Construction,0
+2017,Bishan,HDB,Completed,0
+2017,Bishan,DBSS,Under Construction,0
+2017,Bishan,DBSS,Completed,0
+2017,Bukit Batok,HDB,Under Construction,5233
+2017,Bukit Batok,HDB,Completed,6884
+2017,Bukit Batok,DBSS,Under Construction,0
+2017,Bukit Batok,DBSS,Completed,0
+2017,Bukit Merah,HDB,Under Construction,689
+2017,Bukit Merah,HDB,Completed,2023
+2017,Bukit Merah,DBSS,Under Construction,0
+2017,Bukit Merah,DBSS,Completed,0
+2017,Bukit Panjang,HDB,Under Construction,1773
+2017,Bukit Panjang,HDB,Completed,0
+2017,Bukit Panjang,DBSS,Under Construction,0
+2017,Bukit Panjang,DBSS,Completed,0
+2017,Bukit Timah,HDB,Under Construction,0
+2017,Bukit Timah,HDB,Completed,0
+2017,Bukit Timah,DBSS,Under Construction,0
+2017,Bukit Timah,DBSS,Completed,0
+2017,Central Area,HDB,Under Construction,0
+2017,Central Area,HDB,Completed,0
+2017,Central Area,DBSS,Under Construction,0
+2017,Central Area,DBSS,Completed,0
+2017,Choa Chu Kang,HDB,Under Construction,126
+2017,Choa Chu Kang,HDB,Completed,0
+2017,Choa Chu Kang,DBSS,Under Construction,0
+2017,Choa Chu Kang,DBSS,Completed,0
+2017,Clementi,HDB,Under Construction,3365
+2017,Clementi,HDB,Completed,502
+2017,Clementi,DBSS,Under Construction,0
+2017,Clementi,DBSS,Completed,0
+2017,Geylang,HDB,Under Construction,2023
+2017,Geylang,HDB,Completed,0
+2017,Geylang,DBSS,Under Construction,0
+2017,Geylang,DBSS,Completed,0
+2017,Hougang,HDB,Under Construction,3230
+2017,Hougang,HDB,Completed,467
+2017,Hougang,DBSS,Under Construction,0
+2017,Hougang,DBSS,Completed,0
+2017,Jurong East,HDB,Under Construction,225
+2017,Jurong East,HDB,Completed,0
+2017,Jurong East,DBSS,Under Construction,0
+2017,Jurong East,DBSS,Completed,0
+2017,Jurong West,HDB,Under Construction,907
+2017,Jurong West,HDB,Completed,1223
+2017,Jurong West,DBSS,Under Construction,0
+2017,Jurong West,DBSS,Completed,0
+2017,Kallang/Whampoa,HDB,Under Construction,981
+2017,Kallang/Whampoa,HDB,Completed,0
+2017,Kallang/Whampoa,DBSS,Under Construction,0
+2017,Kallang/Whampoa,DBSS,Completed,0
+2017,Marine Parade,HDB,Under Construction,0
+2017,Marine Parade,HDB,Completed,0
+2017,Marine Parade,DBSS,Under Construction,0
+2017,Marine Parade,DBSS,Completed,0
+2017,Pasir Ris,HDB,Under Construction,0
+2017,Pasir Ris,HDB,Completed,0
+2017,Pasir Ris,DBSS,Under Construction,0
+2017,Pasir Ris,DBSS,Completed,0
+2017,Punggol,HDB,Under Construction,8806
+2017,Punggol,HDB,Completed,5844
+2017,Punggol,DBSS,Under Construction,0
+2017,Punggol,DBSS,Completed,0
+2017,Queenstown,HDB,Under Construction,3708
+2017,Queenstown,HDB,Completed,1179
+2017,Queenstown,DBSS,Under Construction,0
+2017,Queenstown,DBSS,Completed,0
+2017,Sembawang,HDB,Under Construction,3497
+2017,Sembawang,HDB,Completed,3962
+2017,Sembawang,DBSS,Under Construction,0
+2017,Sembawang,DBSS,Completed,0
+2017,Sengkang,HDB,Under Construction,7333
+2017,Sengkang,HDB,Completed,624
+2017,Sengkang,DBSS,Under Construction,0
+2017,Sengkang,DBSS,Completed,0
+2017,Serangoon,HDB,Under Construction,0
+2017,Serangoon,HDB,Completed,150
+2017,Serangoon,DBSS,Under Construction,0
+2017,Serangoon,DBSS,Completed,0
+2017,Tampines,HDB,Under Construction,6533
+2017,Tampines,HDB,Completed,902
+2017,Tampines,DBSS,Under Construction,0
+2017,Tampines,DBSS,Completed,0
+2017,Toa Payoh,HDB,Under Construction,6975
+2017,Toa Payoh,HDB,Completed,542
+2017,Toa Payoh,DBSS,Under Construction,0
+2017,Toa Payoh,DBSS,Completed,0
+2017,Woodlands,HDB,Under Construction,3164
+2017,Woodlands,HDB,Completed,3701
+2017,Woodlands,DBSS,Under Construction,0
+2017,Woodlands,DBSS,Completed,0
+2017,Yishun,HDB,Under Construction,4154
+2017,Yishun,HDB,Completed,1882
+2017,Yishun,DBSS,Under Construction,0
+2017,Yishun,DBSS,Completed,0
+2018,Ang Mo Kio,HDB,Under Construction,590
+2018,Ang Mo Kio,HDB,Completed,0
+2018,Ang Mo Kio,DBSS,Under Construction,0
+2018,Ang Mo Kio,DBSS,Completed,0
+2018,Bedok,HDB,Under Construction,2315
+2018,Bedok,HDB,Completed,330
+2018,Bedok,DBSS,Under Construction,0
+2018,Bedok,DBSS,Completed,0
+2018,Bishan,HDB,Under Construction,0
+2018,Bishan,HDB,Completed,0
+2018,Bishan,DBSS,Under Construction,0
+2018,Bishan,DBSS,Completed,0
+2018,Bukit Batok,HDB,Under Construction,3359
+2018,Bukit Batok,HDB,Completed,3014
+2018,Bukit Batok,DBSS,Under Construction,0
+2018,Bukit Batok,DBSS,Completed,0
+2018,Bukit Merah,HDB,Under Construction,0
+2018,Bukit Merah,HDB,Completed,689
+2018,Bukit Merah,DBSS,Under Construction,0
+2018,Bukit Merah,DBSS,Completed,0
+2018,Bukit Panjang,HDB,Under Construction,1773
+2018,Bukit Panjang,HDB,Completed,0
+2018,Bukit Panjang,DBSS,Under Construction,0
+2018,Bukit Panjang,DBSS,Completed,0
+2018,Bukit Timah,HDB,Under Construction,0
+2018,Bukit Timah,HDB,Completed,0
+2018,Bukit Timah,DBSS,Under Construction,0
+2018,Bukit Timah,DBSS,Completed,0
+2018,Central Area,HDB,Under Construction,0
+2018,Central Area,HDB,Completed,0
+2018,Central Area,DBSS,Under Construction,0
+2018,Central Area,DBSS,Completed,0
+2018,Choa Chu Kang,HDB,Under Construction,700
+2018,Choa Chu Kang,HDB,Completed,0
+2018,Choa Chu Kang,DBSS,Under Construction,0
+2018,Choa Chu Kang,DBSS,Completed,0
+2018,Clementi,HDB,Under Construction,3365
+2018,Clementi,HDB,Completed,0
+2018,Clementi,DBSS,Under Construction,0
+2018,Clementi,DBSS,Completed,0
+2018,Geylang,HDB,Under Construction,3850
+2018,Geylang,HDB,Completed,108
+2018,Geylang,DBSS,Under Construction,0
+2018,Geylang,DBSS,Completed,0
+2018,Hougang,HDB,Under Construction,996
+2018,Hougang,HDB,Completed,2234
+2018,Hougang,DBSS,Under Construction,0
+2018,Hougang,DBSS,Completed,0
+2018,Jurong East,HDB,Under Construction,0
+2018,Jurong East,HDB,Completed,225
+2018,Jurong East,DBSS,Under Construction,0
+2018,Jurong East,DBSS,Completed,0
+2018,Jurong West,HDB,Under Construction,0
+2018,Jurong West,HDB,Completed,907
+2018,Jurong West,DBSS,Under Construction,0
+2018,Jurong West,DBSS,Completed,0
+2018,Kallang/Whampoa,HDB,Under Construction,654
+2018,Kallang/Whampoa,HDB,Completed,738
+2018,Kallang/Whampoa,DBSS,Under Construction,0
+2018,Kallang/Whampoa,DBSS,Completed,0
+2018,Marine Parade,HDB,Under Construction,0
+2018,Marine Parade,HDB,Completed,0
+2018,Marine Parade,DBSS,Under Construction,0
+2018,Marine Parade,DBSS,Completed,0
+2018,Pasir Ris,HDB,Under Construction,0
+2018,Pasir Ris,HDB,Completed,0
+2018,Pasir Ris,DBSS,Under Construction,0
+2018,Pasir Ris,DBSS,Completed,0
+2018,Punggol,HDB,Under Construction,10632
+2018,Punggol,HDB,Completed,680
+2018,Punggol,DBSS,Under Construction,0
+2018,Punggol,DBSS,Completed,0
+2018,Queenstown,HDB,Under Construction,3708
+2018,Queenstown,HDB,Completed,0
+2018,Queenstown,DBSS,Under Construction,0
+2018,Queenstown,DBSS,Completed,0
+2018,Sembawang,HDB,Under Construction,2979
+2018,Sembawang,HDB,Completed,518
+2018,Sembawang,DBSS,Under Construction,0
+2018,Sembawang,DBSS,Completed,0
+2018,Sengkang,HDB,Under Construction,9150
+2018,Sengkang,HDB,Completed,511
+2018,Sengkang,DBSS,Under Construction,0
+2018,Sengkang,DBSS,Completed,0
+2018,Serangoon,HDB,Under Construction,0
+2018,Serangoon,HDB,Completed,0
+2018,Serangoon,DBSS,Under Construction,0
+2018,Serangoon,DBSS,Completed,0
+2018,Tampines,HDB,Under Construction,9321
+2018,Tampines,HDB,Completed,1943
+2018,Tampines,DBSS,Under Construction,0
+2018,Tampines,DBSS,Completed,0
+2018,Tengah,HDB,Under Construction,2560
+2018,Tengah,HDB,Completed,0
+2018,Tengah,DBSS,Under Construction,0
+2018,Tengah,DBSS,Completed,0
+2018,Toa Payoh,HDB,Under Construction,6960
+2018,Toa Payoh,HDB,Completed,557
+2018,Toa Payoh,DBSS,Under Construction,0
+2018,Toa Payoh,DBSS,Completed,0
+2018,Woodlands,HDB,Under Construction,2047
+2018,Woodlands,HDB,Completed,1746
+2018,Woodlands,DBSS,Under Construction,0
+2018,Woodlands,DBSS,Completed,0
+2018,Yishun,HDB,Under Construction,4498
+2018,Yishun,HDB,Completed,1548
+2018,Yishun,DBSS,Under Construction,0
+2018,Yishun,DBSS,Completed,0
+2019,Ang Mo Kio,HDB,Under Construction,590
+2019,Ang Mo Kio,HDB,Completed,0
+2019,Ang Mo Kio,DBSS,Under Construction,0
+2019,Ang Mo Kio,DBSS,Completed,0
+2019,Bedok,HDB,Under Construction,1655
+2019,Bedok,HDB,Completed,660
+2019,Bedok,DBSS,Under Construction,0
+2019,Bedok,DBSS,Completed,0
+2019,Bishan,HDB,Under Construction,0
+2019,Bishan,HDB,Completed,0
+2019,Bishan,DBSS,Under Construction,0
+2019,Bishan,DBSS,Completed,0
+2019,Bukit Batok,HDB,Under Construction,2697
+2019,Bukit Batok,HDB,Completed,662
+2019,Bukit Batok,DBSS,Under Construction,0
+2019,Bukit Batok,DBSS,Completed,0
+2019,Bukit Merah,HDB,Under Construction,0
+2019,Bukit Merah,HDB,Completed,0
+2019,Bukit Merah,DBSS,Under Construction,0
+2019,Bukit Merah,DBSS,Completed,0
+2019,Bukit Panjang,HDB,Under Construction,1773
+2019,Bukit Panjang,HDB,Completed,0
+2019,Bukit Panjang,DBSS,Under Construction,0
+2019,Bukit Panjang,DBSS,Completed,0
+2019,Bukit Timah,HDB,Under Construction,0
+2019,Bukit Timah,HDB,Completed,0
+2019,Bukit Timah,DBSS,Under Construction,0
+2019,Bukit Timah,DBSS,Completed,0
+2019,Central Area,HDB,Under Construction,0
+2019,Central Area,HDB,Completed,0
+2019,Central Area,DBSS,Under Construction,0
+2019,Central Area,DBSS,Completed,0
+2019,Choa Chu Kang,HDB,Under Construction,1271
+2019,Choa Chu Kang,HDB,Completed,0
+2019,Choa Chu Kang,DBSS,Under Construction,0
+2019,Choa Chu Kang,DBSS,Completed,0
+2019,Clementi,HDB,Under Construction,2980
+2019,Clementi,HDB,Completed,385
+2019,Clementi,DBSS,Under Construction,0
+2019,Clementi,DBSS,Completed,0
+2019,Geylang,HDB,Under Construction,3838
+2019,Geylang,HDB,Completed,642
+2019,Geylang,DBSS,Under Construction,0
+2019,Geylang,DBSS,Completed,0
+2019,Hougang,HDB,Under Construction,285
+2019,Hougang,HDB,Completed,711
+2019,Hougang,DBSS,Under Construction,0
+2019,Hougang,DBSS,Completed,0
+2019,Jurong East,HDB,Under Construction,0
+2019,Jurong East,HDB,Completed,0
+2019,Jurong East,DBSS,Under Construction,0
+2019,Jurong East,DBSS,Completed,0
+2019,Jurong West,HDB,Under Construction,1374
+2019,Jurong West,HDB,Completed,0
+2019,Jurong West,DBSS,Under Construction,0
+2019,Jurong West,DBSS,Completed,0
+2019,Kallang/Whampoa,HDB,Under Construction,1681
+2019,Kallang/Whampoa,HDB,Completed,0
+2019,Kallang/Whampoa,DBSS,Under Construction,0
+2019,Kallang/Whampoa,DBSS,Completed,0
+2019,Marine Parade,HDB,Under Construction,0
+2019,Marine Parade,HDB,Completed,0
+2019,Marine Parade,DBSS,Under Construction,0
+2019,Marine Parade,DBSS,Completed,0
+2019,Pasir Ris,HDB,Under Construction,0
+2019,Pasir Ris,HDB,Completed,0
+2019,Pasir Ris,DBSS,Under Construction,0
+2019,Pasir Ris,DBSS,Completed,0
+2019,Punggol,HDB,Under Construction,12602
+2019,Punggol,HDB,Completed,754
+2019,Punggol,DBSS,Under Construction,0
+2019,Punggol,DBSS,Completed,0
+2019,Queenstown,HDB,Under Construction,3219
+2019,Queenstown,HDB,Completed,489
+2019,Queenstown,DBSS,Under Construction,0
+2019,Queenstown,DBSS,Completed,0
+2019,Sembawang,HDB,Under Construction,310
+2019,Sembawang,HDB,Completed,2669
+2019,Sembawang,DBSS,Under Construction,0
+2019,Sembawang,DBSS,Completed,0
+2019,Sengkang,HDB,Under Construction,7069
+2019,Sengkang,HDB,Completed,2081
+2019,Sengkang,DBSS,Under Construction,0
+2019,Sengkang,DBSS,Completed,0
+2019,Serangoon,HDB,Under Construction,0
+2019,Serangoon,HDB,Completed,0
+2019,Serangoon,DBSS,Under Construction,0
+2019,Serangoon,DBSS,Completed,0
+2019,Tampines,HDB,Under Construction,10483
+2019,Tampines,HDB,Completed,1930
+2019,Tampines,DBSS,Under Construction,0
+2019,Tampines,DBSS,Completed,0
+2019,Tengah,HDB,Under Construction,8839
+2019,Tengah,HDB,Completed,0
+2019,Tengah,DBSS,Under Construction,0
+2019,Tengah,DBSS,Completed,0
+2019,Toa Payoh,HDB,Under Construction,5674
+2019,Toa Payoh,HDB,Completed,1286
+2019,Toa Payoh,DBSS,Under Construction,0
+2019,Toa Payoh,DBSS,Completed,0
+2019,Woodlands,HDB,Under Construction,2769
+2019,Woodlands,HDB,Completed,0
+2019,Woodlands,DBSS,Under Construction,0
+2019,Woodlands,DBSS,Completed,0
+2019,Yishun,HDB,Under Construction,4444
+2019,Yishun,HDB,Completed,824
+2019,Yishun,DBSS,Under Construction,0
+2019,Yishun,DBSS,Completed,0
+2020,Ang Mo Kio,HDB,Under Construction,834
+2020,Ang Mo Kio,HDB,Completed,590
+2020,Ang Mo Kio,DBSS,Under Construction,0
+2020,Ang Mo Kio,DBSS,Completed,0
+2020,Bedok,HDB,Under Construction,919
+2020,Bedok,HDB,Completed,590
+2020,Bedok,DBSS,Under Construction,0
+2020,Bedok,DBSS,Completed,0
+2020,Bishan,HDB,Under Construction,1974
+2020,Bishan,HDB,Completed,0
+2020,Bishan,DBSS,Under Construction,0
+2020,Bishan,DBSS,Completed,0
+2020,Bukit Batok,HDB,Under Construction,1569
+2020,Bukit Batok,HDB,Completed,1300
+2020,Bukit Batok,DBSS,Under Construction,0
+2020,Bukit Batok,DBSS,Completed,0
+2020,Bukit Merah,HDB,Under Construction,0
+2020,Bukit Merah,HDB,Completed,0
+2020,Bukit Merah,DBSS,Under Construction,0
+2020,Bukit Merah,DBSS,Completed,0
+2020,Bukit Panjang,HDB,Under Construction,1773
+2020,Bukit Panjang,HDB,Completed,0
+2020,Bukit Panjang,DBSS,Under Construction,0
+2020,Bukit Panjang,DBSS,Completed,0
+2020,Bukit Timah,HDB,Under Construction,0
+2020,Bukit Timah,HDB,Completed,0
+2020,Bukit Timah,DBSS,Under Construction,0
+2020,Bukit Timah,DBSS,Completed,0
+2020,Central Area,HDB,Under Construction,0
+2020,Central Area,HDB,Completed,0
+2020,Central Area,DBSS,Under Construction,0
+2020,Central Area,DBSS,Completed,0
+2020,Choa Chu Kang,HDB,Under Construction,1145
+2020,Choa Chu Kang,HDB,Completed,126
+2020,Choa Chu Kang,DBSS,Under Construction,0
+2020,Choa Chu Kang,DBSS,Completed,0
+2020,Clementi,HDB,Under Construction,2980
+2020,Clementi,HDB,Completed,0
+2020,Clementi,DBSS,Under Construction,0
+2020,Clementi,DBSS,Completed,0
+2020,Geylang,HDB,Under Construction,3838
+2020,Geylang,HDB,Completed,0
+2020,Geylang,DBSS,Under Construction,0
+2020,Geylang,DBSS,Completed,0
+2020,Hougang,HDB,Under Construction,0
+2020,Hougang,HDB,Completed,285
+2020,Hougang,DBSS,Under Construction,0
+2020,Hougang,DBSS,Completed,0
+2020,Jurong East,HDB,Under Construction,0
+2020,Jurong East,HDB,Completed,0
+2020,Jurong East,DBSS,Under Construction,0
+2020,Jurong East,DBSS,Completed,0
+2020,Jurong West,HDB,Under Construction,1374
+2020,Jurong West,HDB,Completed,0
+2020,Jurong West,DBSS,Under Construction,0
+2020,Jurong West,DBSS,Completed,0
+2020,Kallang/Whampoa,HDB,Under Construction,1681
+2020,Kallang/Whampoa,HDB,Completed,0
+2020,Kallang/Whampoa,DBSS,Under Construction,0
+2020,Kallang/Whampoa,DBSS,Completed,0
+2020,Marine Parade,HDB,Under Construction,0
+2020,Marine Parade,HDB,Completed,0
+2020,Marine Parade,DBSS,Under Construction,0
+2020,Marine Parade,DBSS,Completed,0
+2020,Pasir Ris,HDB,Under Construction,0
+2020,Pasir Ris,HDB,Completed,0
+2020,Pasir Ris,DBSS,Under Construction,0
+2020,Pasir Ris,DBSS,Completed,0
+2020,Punggol,HDB,Under Construction,10679
+2020,Punggol,HDB,Completed,1286
+2020,Punggol,DBSS,Under Construction,0
+2020,Punggol,DBSS,Completed,0
+2020,Queenstown,HDB,Under Construction,2409
+2020,Queenstown,HDB,Completed,810
+2020,Queenstown,DBSS,Under Construction,0
+2020,Queenstown,DBSS,Completed,0
+2020,Sembawang,HDB,Under Construction,1777
+2020,Sembawang,HDB,Completed,0
+2020,Sembawang,DBSS,Under Construction,0
+2020,Sembawang,DBSS,Completed,0
+2020,Sengkang,HDB,Under Construction,7069
+2020,Sengkang,HDB,Completed,0
+2020,Sengkang,DBSS,Under Construction,0
+2020,Sengkang,DBSS,Completed,0
+2020,Serangoon,HDB,Under Construction,0
+2020,Serangoon,HDB,Completed,0
+2020,Serangoon,DBSS,Under Construction,0
+2020,Serangoon,DBSS,Completed,0
+2020,Tampines,HDB,Under Construction,10267
+2020,Tampines,HDB,Completed,1289
+2020,Tampines,DBSS,Under Construction,0
+2020,Tampines,DBSS,Completed,0
+2020,Tengah,HDB,Under Construction,10995
+2020,Tengah,HDB,Completed,0
+2020,Tengah,DBSS,Under Construction,0
+2020,Tengah,DBSS,Completed,0
+2020,Toa Payoh,HDB,Under Construction,6477
+2020,Toa Payoh,HDB,Completed,1178
+2020,Toa Payoh,DBSS,Under Construction,0
+2020,Toa Payoh,DBSS,Completed,0
+2020,Woodlands,HDB,Under Construction,3118
+2020,Woodlands,HDB,Completed,0
+2020,Woodlands,DBSS,Under Construction,0
+2020,Woodlands,DBSS,Completed,0
+2020,Yishun,HDB,Under Construction,4444
+2020,Yishun,HDB,Completed,0
+2020,Yishun,DBSS,Under Construction,0
+2020,Yishun,DBSS,Completed,0
+2021,Ang Mo Kio,HDB,Under Construction,834
+2021,Ang Mo Kio,HDB,Completed,0
+2021,Ang Mo Kio,DBSS,Under Construction,0
+2021,Ang Mo Kio,DBSS,Completed,0
+2021,Bedok,HDB,Under Construction,0
+2021,Bedok,HDB,Completed,919
+2021,Bedok,DBSS,Under Construction,0
+2021,Bedok,DBSS,Completed,0
+2021,Bishan,HDB,Under Construction,1974
+2021,Bishan,HDB,Completed,0
+2021,Bishan,DBSS,Under Construction,0
+2021,Bishan,DBSS,Completed,0
+2021,Bukit Batok,HDB,Under Construction,2531
+2021,Bukit Batok,HDB,Completed,0
+2021,Bukit Batok,DBSS,Under Construction,0
+2021,Bukit Batok,DBSS,Completed,0
+2021,Bukit Merah,HDB,Under Construction,0
+2021,Bukit Merah,HDB,Completed,0
+2021,Bukit Merah,DBSS,Under Construction,0
+2021,Bukit Merah,DBSS,Completed,0
+2021,Bukit Panjang,HDB,Under Construction,202
+2021,Bukit Panjang,HDB,Completed,1571
+2021,Bukit Panjang,DBSS,Under Construction,0
+2021,Bukit Panjang,DBSS,Completed,0
+2021,Bukit Timah,HDB,Under Construction,0
+2021,Bukit Timah,HDB,Completed,0
+2021,Bukit Timah,DBSS,Under Construction,0
+2021,Bukit Timah,DBSS,Completed,0
+2021,Central Area,HDB,Under Construction,0
+2021,Central Area,HDB,Completed,0
+2021,Central Area,DBSS,Under Construction,0
+2021,Central Area,DBSS,Completed,0
+2021,Choa Chu Kang,HDB,Under Construction,1145
+2021,Choa Chu Kang,HDB,Completed,0
+2021,Choa Chu Kang,DBSS,Under Construction,0
+2021,Choa Chu Kang,DBSS,Completed,0
+2021,Clementi,HDB,Under Construction,2980
+2021,Clementi,HDB,Completed,0
+2021,Clementi,DBSS,Under Construction,0
+2021,Clementi,DBSS,Completed,0
+2021,Geylang,HDB,Under Construction,4955
+2021,Geylang,HDB,Completed,686
+2021,Geylang,DBSS,Under Construction,0
+2021,Geylang,DBSS,Completed,0
+2021,Hougang,HDB,Under Construction,1439
+2021,Hougang,HDB,Completed,0
+2021,Hougang,DBSS,Under Construction,0
+2021,Hougang,DBSS,Completed,0
+2021,Jurong East,HDB,Under Construction,569
+2021,Jurong East,HDB,Completed,0
+2021,Jurong East,DBSS,Under Construction,0
+2021,Jurong East,DBSS,Completed,0
+2021,Jurong West,HDB,Under Construction,1374
+2021,Jurong West,HDB,Completed,0
+2021,Jurong West,DBSS,Under Construction,0
+2021,Jurong West,DBSS,Completed,0
+2021,Kallang/Whampoa,HDB,Under Construction,2634
+2021,Kallang/Whampoa,HDB,Completed,243
+2021,Kallang/Whampoa,DBSS,Under Construction,0
+2021,Kallang/Whampoa,DBSS,Completed,0
+2021,Marine Parade,HDB,Under Construction,0
+2021,Marine Parade,HDB,Completed,0
+2021,Marine Parade,DBSS,Under Construction,0
+2021,Marine Parade,DBSS,Completed,0
+2021,Pasir Ris,HDB,Under Construction,1270
+2021,Pasir Ris,HDB,Completed,0
+2021,Pasir Ris,DBSS,Under Construction,0
+2021,Pasir Ris,DBSS,Completed,0
+2021,Punggol,HDB,Under Construction,7454
+2021,Punggol,HDB,Completed,3225
+2021,Punggol,DBSS,Under Construction,0
+2021,Punggol,DBSS,Completed,0
+2021,Queenstown,HDB,Under Construction,0
+2021,Queenstown,HDB,Completed,2409
+2021,Queenstown,DBSS,Under Construction,0
+2021,Queenstown,DBSS,Completed,0
+2021,Sembawang,HDB,Under Construction,2193
+2021,Sembawang,HDB,Completed,310
+2021,Sembawang,DBSS,Under Construction,0
+2021,Sembawang,DBSS,Completed,0
+2021,Sengkang,HDB,Under Construction,6076
+2021,Sengkang,HDB,Completed,993
+2021,Sengkang,DBSS,Under Construction,0
+2021,Sengkang,DBSS,Completed,0
+2021,Serangoon,HDB,Under Construction,0
+2021,Serangoon,HDB,Completed,0
+2021,Serangoon,DBSS,Under Construction,0
+2021,Serangoon,DBSS,Completed,0
+2021,Tampines,HDB,Under Construction,11802
+2021,Tampines,HDB,Completed,1374
+2021,Tampines,DBSS,Under Construction,0
+2021,Tampines,DBSS,Completed,0
+2021,Tengah,HDB,Under Construction,14148
+2021,Tengah,HDB,Completed,0
+2021,Tengah,DBSS,Under Construction,0
+2021,Tengah,DBSS,Completed,0
+2021,Toa Payoh,HDB,Under Construction,7309
+2021,Toa Payoh,HDB,Completed,1269
+2021,Toa Payoh,DBSS,Under Construction,0
+2021,Toa Payoh,DBSS,Completed,0
+2021,Woodlands,HDB,Under Construction,6271
+2021,Woodlands,HDB,Completed,172
+2021,Woodlands,DBSS,Under Construction,0
+2021,Woodlands,DBSS,Completed,0
+2021,Yishun,HDB,Under Construction,5827
+2021,Yishun,HDB,Completed,456
+2021,Yishun,DBSS,Under Construction,0
+2021,Yishun,DBSS,Completed,0
+2022,Ang Mo Kio,HDB,Under Construction,834
+2022,Ang Mo Kio,HDB,Completed,0
+2022,Ang Mo Kio,DBSS,Under Construction,0
+2022,Ang Mo Kio,DBSS,Completed,0
+2022,Bedok,HDB,Under Construction,0
+2022,Bedok,HDB,Completed,0
+2022,Bedok,DBSS,Under Construction,0
+2022,Bedok,DBSS,Completed,0
+2022,Bishan,HDB,Under Construction,1974
+2022,Bishan,HDB,Completed,0
+2022,Bishan,DBSS,Under Construction,0
+2022,Bishan,DBSS,Completed,0
+2022,Bukit Batok,HDB,Under Construction,1134
+2022,Bukit Batok,HDB,Completed,1397
+2022,Bukit Batok,DBSS,Under Construction,0
+2022,Bukit Batok,DBSS,Completed,0
+2022,Bukit Merah,HDB,Under Construction,3533
+2022,Bukit Merah,HDB,Completed,0
+2022,Bukit Merah,DBSS,Under Construction,0
+2022,Bukit Merah,DBSS,Completed,0
+2022,Bukit Panjang,HDB,Under Construction,0
+2022,Bukit Panjang,HDB,Completed,202
+2022,Bukit Panjang,DBSS,Under Construction,0
+2022,Bukit Panjang,DBSS,Completed,0
+2022,Bukit Timah,HDB,Under Construction,0
+2022,Bukit Timah,HDB,Completed,0
+2022,Bukit Timah,DBSS,Under Construction,0
+2022,Bukit Timah,DBSS,Completed,0
+2022,Central Area,HDB,Under Construction,1000
+2022,Central Area,HDB,Completed,0
+2022,Central Area,DBSS,Under Construction,0
+2022,Central Area,DBSS,Completed,0
+2022,Choa Chu Kang,HDB,Under Construction,1055
+2022,Choa Chu Kang,HDB,Completed,1145
+2022,Choa Chu Kang,DBSS,Under Construction,0
+2022,Choa Chu Kang,DBSS,Completed,0
+2022,Clementi,HDB,Under Construction,697
+2022,Clementi,HDB,Completed,2283
+2022,Clementi,DBSS,Under Construction,0
+2022,Clementi,DBSS,Completed,0
+2022,Geylang,HDB,Under Construction,3618
+2022,Geylang,HDB,Completed,1780
+2022,Geylang,DBSS,Under Construction,0
+2022,Geylang,DBSS,Completed,0
+2022,Hougang,HDB,Under Construction,2025
+2022,Hougang,HDB,Completed,0
+2022,Hougang,DBSS,Under Construction,0
+2022,Hougang,DBSS,Completed,0
+2022,Jurong East,HDB,Under Construction,569
+2022,Jurong East,HDB,Completed,0
+2022,Jurong East,DBSS,Under Construction,0
+2022,Jurong East,DBSS,Completed,0
+2022,Jurong West,HDB,Under Construction,2611
+2022,Jurong West,HDB,Completed,0
+2022,Jurong West,DBSS,Under Construction,0
+2022,Jurong West,DBSS,Completed,0
+2022,Kallang/Whampoa,HDB,Under Construction,3462
+2022,Kallang/Whampoa,HDB,Completed,0
+2022,Kallang/Whampoa,DBSS,Under Construction,0
+2022,Kallang/Whampoa,DBSS,Completed,0
+2022,Marine Parade,HDB,Under Construction,0
+2022,Marine Parade,HDB,Completed,0
+2022,Marine Parade,DBSS,Under Construction,0
+2022,Marine Parade,DBSS,Completed,0
+2022,Pasir Ris,HDB,Under Construction,1270
+2022,Pasir Ris,HDB,Completed,0
+2022,Pasir Ris,DBSS,Under Construction,0
+2022,Pasir Ris,DBSS,Completed,0
+2022,Punggol,HDB,Under Construction,4842
+2022,Punggol,HDB,Completed,2612
+2022,Punggol,DBSS,Under Construction,0
+2022,Punggol,DBSS,Completed,0
+2022,Queenstown,HDB,Under Construction,1711
+2022,Queenstown,HDB,Completed,0
+2022,Queenstown,DBSS,Under Construction,0
+2022,Queenstown,DBSS,Completed,0
+2022,Sembawang,HDB,Under Construction,2193
+2022,Sembawang,HDB,Completed,0
+2022,Sembawang,DBSS,Under Construction,0
+2022,Sembawang,DBSS,Completed,0
+2022,Sengkang,HDB,Under Construction,4148
+2022,Sengkang,HDB,Completed,1928
+2022,Sengkang,DBSS,Under Construction,0
+2022,Sengkang,DBSS,Completed,0
+2022,Serangoon,HDB,Under Construction,0
+2022,Serangoon,HDB,Completed,0
+2022,Serangoon,DBSS,Under Construction,0
+2022,Serangoon,DBSS,Completed,0
+2022,Tampines,HDB,Under Construction,8182
+2022,Tampines,HDB,Completed,3887
+2022,Tampines,DBSS,Under Construction,0
+2022,Tampines,DBSS,Completed,0
+2022,Tengah,HDB,Under Construction,16996
+2022,Tengah,HDB,Completed,0
+2022,Tengah,DBSS,Under Construction,0
+2022,Tengah,DBSS,Completed,0
+2022,Toa Payoh,HDB,Under Construction,5028
+2022,Toa Payoh,HDB,Completed,2685
+2022,Toa Payoh,DBSS,Under Construction,0
+2022,Toa Payoh,DBSS,Completed,0
+2022,Woodlands,HDB,Under Construction,6132
+2022,Woodlands,HDB,Completed,1875
+2022,Woodlands,DBSS,Under Construction,0
+2022,Woodlands,DBSS,Completed,0
+2022,Yishun,HDB,Under Construction,2485
+2022,Yishun,HDB,Completed,3988
+2022,Yishun,DBSS,Under Construction,0
+2022,Yishun,DBSS,Completed,0
